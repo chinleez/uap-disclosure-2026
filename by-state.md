@@ -25,7 +25,7 @@ This document is a U.S. Department of State diplomatic cable from the U.S. Embas
 ### State Department UAP Cable 1, Papua New Guinea, January 28, 1985
 _State Department UAP Cable 1，巴布亚新几内亚，1 月 28 日，1985_
 
-📄 PDF· 发布 5/8/26 · 事件 1/24/85 · 地点 巴布亚新几内亚 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 1/24/85 · 地点 巴布亚新几内亚 · 删改 未标注
 
 **关联档案**：配对 PDF 059UAP00009
 
@@ -34,7 +34,7 @@ _State Department UAP Cable 1，巴布亚新几内亚，1 月 28 日，1985_
 ### State Department UAP Cable 2, Kazakhstan, January 31, 1994
 _State Department UAP Cable 2，哈萨克斯坦，1 月 31 日，1994_
 
-📄 PDF· 发布 5/8/26 · 事件 1/27/94 · 地点 哈萨克斯坦 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 1/27/94 · 地点 哈萨克斯坦 · 删改 未标注
 
 **关联档案**：配对 PDF 059UAP000010
 
@@ -48,7 +48,7 @@ _State Department UAP Cable 2，哈萨克斯坦，1 月 31 日，1994_
 
 ### 59_214434_SP 16 [7.18.1963]
 
-📄 PDF· 发布 5/8/26 · 事件 7/18/63 · 地点 未提供 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 7/18/63 · 地点 未提供 · 删改 未标注
 
 > 本备忘录由 1963 年 7 月 18 日的总统行政办公室国家航空与航天理事会出具，内容涉及有关「外星种族问题」的思考。文件包含若干细节：若发现外星智慧生命的应对方案、对扩展科学认知的设想、火星存在生命的可能性，以及相关外交政策。
 
@@ -62,7 +62,7 @@ This memorandum, dated July 18, 1963, from the Executive Office of the President
 
 ### 59_64634_711.5612[7-2852
 
-📄 PDF· 发布 5/8/26 · 事件 7/18/52 · 地点 未提供 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 7/18/52 · 地点 未提供 · 删改 未标注
 
 > 本备忘录共两页，日期为 1952 年 7 月 18 日，内容与「不明飞行物（UFO）」报告数量增加这一现象相关。文件中讨论了若干可能的解释，包括技术进步、UFO 的历史记录，以及美国空军对 UFO 的看法。
 
@@ -77,7 +77,7 @@ This two page memorandum, dated July 18, 1952, relates to increased reports of u
 ### State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001
 _State Department UAP Cable 3，第比利斯，格鲁吉亚，10 月 30 日，2001_
 
-📄 PDF· 发布 5/8/26 · 事件 10/28/2001-10/29/2001 · 地点 格鲁吉亚 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 10/28/2001-10/29/2001 · 地点 格鲁吉亚 · 删改 未标注
 
 > 10 月 28 日至 29 日，格鲁吉亚外交部声称俄罗斯飞机侵犯格鲁吉亚领空，并轰炸了科多里峡谷地区。俄方否认全部指控，并称所发生情况可能是 UFO。电报撰写人指出，俄方在试图掩盖其行动时，惯于使用「公然的谎言」。
 
@@ -94,7 +94,7 @@ On October 28-29, there was an incident alleged by the Georgian Foreign Ministry
 ### State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004
 _State Department UAP Cable 4，阿什哈巴德，土库曼斯坦，11 月 5 日，2004_
 
-📄 PDF· 发布 5/8/26 · 事件 11/5/04 · 地点 土库曼斯坦 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 11/5/04 · 地点 土库曼斯坦 · 删改 未标注
 
 > 「土库曼斯坦 UFO 研究者协会」（UFOlogists of Turkmenistan）已在土库曼斯坦境内的公民社会组织建设过程中赢得了「美国可靠合作伙伴」的良好声誉，这让本电报的撰写人颇感啼笑皆非。这一声誉之所以成立，是因为在土库曼斯坦「似乎人人都对 UFO 感兴趣」。
 
@@ -111,7 +111,7 @@ UFOlogists of Turkmenistan has gained a positive reputation as a reliable partne
 ### State Department UAP Cable 5, Mexico, September 16, 2003
 _State Department UAP Cable 5，墨西哥，9 月 16 日，2003_
 
-📄 PDF· 发布 5/8/26 · 事件 9/12/03 · 地点 墨西哥 · 删改 未标注
+📄 PDF · 发布 5/8/26 · 事件 9/12/03 · 地点 墨西哥 · 删改 未标注
 
 > 2023 年 9 月 12 日（原文写作 20023，应为 2023 年），墨西哥国会就一项《航空空间保护法》草案听取专家关于 UAP 的证词。如该草案获通过，墨西哥将成为首个正式承认地球上存在外星生命的国家。专家敦促议员承认 UAP、保障空域安全、并允许对 UAP 开展研究；他们还展示了所谓的外星人遗体，以及墨西哥飞行员在飞行中遭遇高速飞行物体的视频。各方对所谓外星人遗体的真实性与有效性存在分歧。
 
@@ -127,7 +127,7 @@ On September 12, 20023 the Mexican Congress heard testimony on UAP from experts 
 
 ### USPER Statement about UAP Sighting
 
-📄 PDF· 发布 5/8/26 · 事件 Late 2025 · 地点 美国 · 删改 是
+📄 PDF · 发布 5/8/26 · 事件 Late 2025 · 地点 美国 · 删改 是
 
 > 本文件为 FBI 对一名美国资深情报官员的「302 表」访谈记录，内容是其亲历的一次发生在某美军设施的 UAP 遭遇。该美国公民（USPER）向 FBI 探员转述称，他与其他联邦及州政府人员前往此前曾出现过光球的地点开展搜索。在用直升机搜索该区域后，他们发现一颗「极高温」的光球悬停在地面上方；据报告该光球以高于追击直升机的速度飞行了 20 英里。此外，还看到一「群」光亮向各方向运动；之后不久又陆续短暂目击到合计四五颗光球，亮度时强时弱。这种「四五颗光球忽明忽暗」的现象在该地区接下来的三十分钟里持续出现。
 

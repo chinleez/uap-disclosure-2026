@@ -25,19 +25,19 @@
 
 ### 38_143685_box_Incident_Summaries_101-172
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_101-172.jpg)
 
 ### 38_143685_box_Incident_Summaries_173-233
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_173-233.jpg)
 
 ### 38_143685_box7_Incident_Summaries_1-100
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Unspecified
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_1-100.jpg)
 
@@ -51,7 +51,7 @@
 
 ### DOW-UAP-D10, Mission Report, Middle East, May 2022
 
-📄 PDF· Released 5/8/26 · Incident 5/6/22 · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 5/6/22 · Location Iraq · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220501-D-D0360-6497 | Duration 5s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -61,13 +61,13 @@
 
 ### DOW-UAP-D12, Mission Report, Iraq, May 2022
 
-📄 PDF· Released 5/8/26 · Incident 5/20/22 · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 5/20/22 · Location Iraq · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d12-mission-report-iraq-may-2022.jpg)
 
 ### DOW-UAP-D14, Mission Report, Iraq, May 2022
 
-📄 PDF· Released 5/8/26 · Incident 5/29/22 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 5/29/22 · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220501-D-D0360-5022 | Duration 10s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -77,7 +77,7 @@
 
 ### DOW-UAP-D16, Mission Report, Syria, July 2022
 
-📄 PDF· Released 5/8/26 · Incident 7/31/22 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 7/31/22 · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220701-D-D0360-5363 | Duration 14s | Aspect 16:9 | DVIDS Location Syria
 
@@ -87,7 +87,7 @@
 
 ### DOW-UAP-D18, Mission Report, Iraq, December 2022
 
-📄 PDF· Released 5/8/26 · Incident 12/1/22 · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 12/1/22 · Location Iraq · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 221201-D-D0360-5883 | Duration 10s | Aspect 16:9 | DVIDS Location Iraq
 
@@ -97,19 +97,19 @@
 
 ### DOW-UAP-D19, Mission Report, Syria, February 21, 2023
 
-📄 PDF· Released 5/8/26 · Incident 2/21/23 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 2/21/23 · Location Syria · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d19-mission-report-syria-february-21-2023.jpg)
 
 ### DOW-UAP-D20, Mission Report, Southern United States, 2020
 
-📄 PDF· Released 5/8/26 · Incident 3/31/23 · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 3/31/23 · Location Iraq · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d20-mission-report-southern-united-states-2020.jpg)
 
 ### DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023
 
-📄 PDF· Released 5/8/26 · Incident 10/31/23 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/31/23 · Location Persian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231001-D-D0360-8883 | Duration 43s | Aspect 16:9 | DVIDS Location United Arab Emirates
 
@@ -119,7 +119,7 @@
 
 ### DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023
 
-📄 PDF· Released 5/8/26 · Incident 10/31/23 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/31/23 · Location Persian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231001-D-D0360-9929 | Duration 4m57s | Aspect 16:9 | DVIDS Location United Arab Emirates
 
@@ -129,31 +129,31 @@
 
 ### DOW-UAP-D25, Mission Report, Greece, January 2024
 
-📄 PDF· Released 5/8/26 · Incident 1/25/24 · Location Mediterranean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 1/25/24 · Location Mediterranean Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d25-mission-report-greece-january-2024.jpg)
 
 ### DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023
 
-📄 PDF· Released 5/8/26 · Incident 6/7/24 · Location Gulf of Oman · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 6/7/24 · Location Gulf of Oman · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d27-mission-report-united-arab-emirates-october-2023.jpg)
 
 ### DOW-UAP-D28, Mission Report, Iraq, September 2024
 
-📄 PDF· Released 5/8/26 · Incident 9/20/24 · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 9/20/24 · Location Iraq · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d28-mission-report-east-china-sea-2024.jpg)
 
 ### DOW-UAP-D3, Mission Report, Arabian Gulf, 2020
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d3-mission-report-arabian-gulf-2020.jpg)
 
 ### DOW-UAP-D32, Mission Report, Syria, October 2024
 
-📄 PDF· Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-8752 | Duration 5s | Aspect 16:9 | DVIDS Location Syria
 
@@ -163,7 +163,7 @@
 
 ### DOW-UAP-D32, Mission Report, Syria, October 2024
 
-📄 PDF· Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-2794 | Duration 6s | Aspect 16:9 | DVIDS Location Syria
 
@@ -173,7 +173,7 @@
 
 ### DOW-UAP-D32, Mission Report, Syria, October 2024
 
-📄 PDF· Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/20/24 · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-6161 | Duration 5s | Aspect 16:9 | DVIDS Location Syria
 
@@ -183,7 +183,7 @@
 
 ### DOW-UAP-D33, Mission Report, Greece, October 2023
 
-📄 PDF· Released 5/8/26 · Incident 10/27/23 · Location Aegean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/27/23 · Location Aegean Sea · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231002-D-D0360-6858 | Duration 2m57s | Aspect 16:9 | DVIDS Location Greece
 
@@ -193,7 +193,7 @@
 
 ### DOW-UAP-D35, Mission Report, Greece, October 2023
 
-📄 PDF· Released 5/8/26 · Incident 10/29/23 · Location Aegean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/29/23 · Location Aegean Sea · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231002-D-D0360-7307 | Duration 24s | Aspect 16:9 | DVIDS Location Greece
 
@@ -203,85 +203,85 @@
 
 ### DOW-UAP-D4, Mission Report, Arabian Gulf, 2020
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d4-mission-report-arabian-gulf-2020.jpg)
 
 ### DOW-UAP-D5, Mission Report, Arabian Gulf, 2020
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d5-mission-report-arabian-gulf-2020.jpg)
 
 ### DOW-UAP-D54, Mission Report, Mediterranean Sea, NA
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d54-mission-report-mediterranean-sea-na.jpg)
 
 ### DOW-UAP-D6, Mission Report, Arabian Gulf, 2020
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location Pacific Ocean · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location Pacific Ocean · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d6-mission-report-arabian-gulf-2020.jpg)
 
 ### DOW-UAP-D60, Mission Report, Persian Gulf, August 2020
 
-📄 PDF· Released 5/8/26 · Incident 8/8/20 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 8/8/20 · Location Persian Gulf · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d60-mission-report-persian-gulf-august-2020.jpg)
 
 ### DOW-UAP-D61, Mission Report, Persian Gulf, August 2020
 
-📄 PDF· Released 5/8/26 · Incident 8/27/20 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 8/27/20 · Location Persian Gulf · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d61-mission-report-persian-gulf-august-2020.jpg)
 
 ### DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020
 
-📄 PDF· Released 5/8/26 · Incident 9/16/20 · Location Strait of Hormuz · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 9/16/20 · Location Strait of Hormuz · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.jpg)
 
 ### DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020
 
-📄 PDF· Released 5/8/26 · Incident 10/1/20 · Location Strait of Hormuz · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/1/20 · Location Strait of Hormuz · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.jpg)
 
 ### DOW-UAP-D64, Mission Report, Iran, November 2020
 
-📄 PDF· Released 5/8/26 · Incident 11/2/20 · Location Iran · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 11/2/20 · Location Iran · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d64-mission-report-iran-november-2020.jpg)
 
 ### DOW-UAP-D65, Mission Report, Persian Gulf, July 2020
 
-📄 PDF· Released 5/8/26 · Incident 7/16/20 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 7/16/20 · Location Persian Gulf · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d65-mission-report-persian-gulf-july-2020.jpg)
 
 ### DOW-UAP-D7, Mission Report, Arabian Gulf, 2020
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d7-mission-report-arabian-gulf-2020.jpg)
 
 ### DOW-UAP-D74, Mission Report, Syria, November 2023
 
-📄 PDF· Released 5/8/26 · Incident 11/9/23 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 11/9/23 · Location Syria · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d74-mission-report-syria-november-2023.jpg)
 
 ### DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024
 
-📄 PDF· Released 5/8/26 · Incident 7/14/24 · Location Gulf of Aden · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 7/14/24 · Location Gulf of Aden · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d75-mission-report-gulf-of-aden-july-2024.jpg)
 
 ### DOW-UAP-D8, Mission Report, Djibouti, 2025
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location Mediterranean Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d8-mission-report-djibouti-2025.jpg)
 
@@ -295,7 +295,7 @@
 
 ### DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220501-D-D0360-6497 | Duration 5s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -305,7 +305,7 @@
 
 ### DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022
 
-📄 PDF· Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
 
 **Related**: PDF pairing [DoW-UAP-D12 → DOW-UAP-D12, Mission Report, Iraq, May 2022](#dow-uap-d12-mission-report-iraq-may-2022)
 
@@ -313,7 +313,7 @@
 
 ### DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220501-D-D0360-5022 | Duration 10s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -323,7 +323,7 @@
 
 ### DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 220701-D-D0360-5363 | Duration 14s | Aspect 16:9 | DVIDS Location Syria
 
@@ -333,7 +333,7 @@
 
 ### DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Iraq · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 221201-D-D0360-5883 | Duration 10s | Aspect 16:9 | DVIDS Location Iraq
 
@@ -343,7 +343,7 @@
 
 ### DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location United Arab Emirates · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location United Arab Emirates · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231001-D-D0360-8883 | Duration 43s | Aspect 16:9 | DVIDS Location United Arab Emirates
 
@@ -353,7 +353,7 @@
 
 ### DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location United Arab Emirates · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location United Arab Emirates · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231001-D-D0360-9929 | Duration 4m57s | Aspect 16:9 | DVIDS Location United Arab Emirates
 
@@ -363,7 +363,7 @@
 
 ### DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 240102-D-D0360-7887 | Duration 1m06s | Aspect 16:9 | DVIDS Location Greece
 
@@ -371,7 +371,7 @@
 
 ### DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-8752 | Duration 5s | Aspect 16:9 | DVIDS Location Syria
 
@@ -381,7 +381,7 @@
 
 ### DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-2794 | Duration 6s | Aspect 16:9 | DVIDS Location Syria
 
@@ -391,7 +391,7 @@
 
 ### DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Syria · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 241002-D-D0360-6161 | Duration 5s | Aspect 16:9 | DVIDS Location Syria
 
@@ -401,7 +401,7 @@
 
 ### DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231002-D-D0360-6858 | Duration 2m57s | Aspect 16:9 | DVIDS Location Greece
 
@@ -411,7 +411,7 @@
 
 ### DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Greece · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 231002-D-D0360-7307 | Duration 24s | Aspect 16:9 | DVIDS Location Greece
 
@@ -421,7 +421,7 @@
 
 ### DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200502-D-D0360-5343 | Duration 2m17s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -431,7 +431,7 @@
 
 ### DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-9165 | Duration 9s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -439,7 +439,7 @@
 
 ### DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Middle East · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 130102-D-D0360-8893 | Duration 1m46s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -447,7 +447,7 @@
 
 ### DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-2155 | Duration 5s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -455,7 +455,7 @@
 
 ### DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-7746 | Duration 1m03s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -463,7 +463,7 @@
 
 ### DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-9704 | Duration 1m34s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -471,7 +471,7 @@
 
 ### DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-6218 | Duration 4m53s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -479,7 +479,7 @@
 
 ### DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Arabian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200102-D-D0360-8501 | Duration 5m12s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -495,7 +495,7 @@
 
 ### DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location East China Sea · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location East China Sea · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 240102-D-D0360-7891 | Duration 9s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -503,7 +503,7 @@
 
 ### DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Japan · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Japan · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 230102-D-D0360-7088 | Duration 1m59s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -511,7 +511,7 @@
 
 ### DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Indo-PACOM · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Indo-PACOM · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 240102-D-D0360-9234 | Duration 1m39s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -527,7 +527,7 @@
 
 ### DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020
 
-📄 PDF· Released 5/8/26 · Incident 5/14/20 · Location Persian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 5/14/20 · Location Persian Gulf · Redacted Yes
 
 **Archive Info**: Category B-Roll | Unit All Domain Anomaly Resolution Office | VIRIN 200502-D-D0360-5343 | Duration 2m17s | Aspect 16:9 | DVIDS Location Undisclosed Location
 
@@ -537,7 +537,7 @@
 
 ### DOW-UAP-D58, Range Fouler Debrief, NA, October 2020
 
-📄 PDF· Released 5/8/26 · Incident 10/27/20 · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/27/20 · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d58-range-fouler-debrief-na-october-2020.jpg)
 
@@ -551,13 +551,13 @@
 
 ### DOW-UAP-D42, Range Fouler Debrief, Japan, 2023
 
-📄 PDF· Released 5/8/26 · Incident 8/31/20 · Location Arabian Gulf · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 8/31/20 · Location Arabian Gulf · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d42-range-fouler-debrief-japan-2023.jpg)
 
 ### DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020
 
-📄 PDF· Released 5/8/26 · Incident 8/24/20 · Location Arabian Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 8/24/20 · Location Arabian Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.jpg)
 
@@ -571,13 +571,13 @@
 
 ### DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020
 
-📄 PDF· Released 5/8/26 · Incident 10/15/20 · Location Arabian Sea · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/15/20 · Location Arabian Sea · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d44-range-fouler-arabian-sea-october-2020.jpg)
 
 ### DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020
 
-📄 PDF· Released 5/8/26 · Incident 9/4/20 · Location Gulf of Aden · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 9/4/20 · Location Gulf of Aden · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d57-mission-report-gulf-of-aden-september-2020.jpg)
 
@@ -591,19 +591,19 @@
 
 ### DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025
 
-📄 PDF· Released 5/8/26 · Incident 4/10/2025-4/11/2025 · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 4/10/2025-4/11/2025 · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d50-email-correspondence-indopacom-april-2025.jpg)
 
 ### DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023
 
-📄 PDF· Released 5/8/26 · Incident 3/23/26 · Location Pacific Time Zone · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 3/23/26 · Location Pacific Time Zone · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.jpg)
 
 ### DOW-UAP-D52, Email Correspondance, NA, August 2024
 
-📄 PDF· Released 5/8/26 · Incident 10/31/24 · Location N/A · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 10/31/24 · Location N/A · Redacted Yes
 
 [PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d52-email-correspondance-na-august-2024.jpg)
 
@@ -615,7 +615,7 @@
 
 ### 18_100754_ General 1946-7_Vol_2
 
-📄 PDF· Released 5/8/26 · Incident 12/30/47 · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 12/30/47 · Location N/A · Redacted Unspecified
 
 > This file contains memorandums and correspondence related to flying disc/saucer sightings and that those are a matter of concern for the Air Materiel Command.
 
@@ -623,7 +623,7 @@
 
 ### 18_6369445_General_1948_Vol_1
 
-📄 PDF· Released 5/8/26 · Incident 6/15/48 · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 6/15/48 · Location N/A · Redacted Unspecified
 
 > This file contains memorandums, correspondence, and forms related to the reporting of information on flying discs and investigations into sightings.
 
@@ -631,7 +631,7 @@
 
 ### 331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents
 
-📄 PDF· Released 5/8/26 · Incident 3/18/45 · Location Germany · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 3/18/45 · Location Germany · Redacted Unspecified
 
 > This file contains SHAEF messages and memorandums related to "night phenomena (foofighters)," flak rockets, unidentified cylindrical objects, and blinking lights. The documents include multiple references to the observations of the 415th Night Fighter Squadron.
 
@@ -639,7 +639,7 @@
 
 ### 341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399
 
-📄 PDF· Released 5/8/26 · Incident 11/8/48 · Location Netherlands · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 11/8/48 · Location Netherlands · Redacted Unspecified
 
 > An Air Force intelligence report from November 1948 relating to unidentified flying objects and flying saucers.
 
@@ -647,7 +647,7 @@
 
 ### 341_110677_Numerical_File,_5-2500
 
-📄 PDF· Released 5/8/26 · Incident 10/14/55 · Location Azerbaijan · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 10/14/55 · Location Azerbaijan · Redacted Unspecified
 
 > Air Intelligence Information Report, 14 October 1955, Report of eye witness account of the ascent and flight of a unconventional aircraft in the trans-Caucasus region on the USSR.
 
@@ -655,7 +655,7 @@
 
 ### 342_HS1-416511228_319.1 Flying Discs 1949
 
-📄 PDF· Released 5/8/26 · Incident 1/9/50 · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 1/9/50 · Location N/A · Redacted Unspecified
 
 > This file primarily contains incident reports on Unidentified Flying Objects (UFOs) written in compliance with the 1948 Flight Service Regulation (FSR) 200-4. The incidents were witnessed by military sources, as well as well as by some Civilian Aviation Authority (CAA) ones. The reports typically include information such as dates, locations, weather, and altitude, plus detailed descriptions of appearance and movement. Some messages from the Military Air Transport Service (MATS) and Army Airways Communications System (AACS) are also included, as well as additional military intelligence reports, several diagrams, and a report from a weather station in Japan.
 
@@ -663,7 +663,7 @@
 
 ### DOW-UAP-D48, Department of the Air Force Report, 1996
 
-📄 PDF· Released 5/8/26 · Incident 9/10/96 · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 9/10/96 · Location N/A · Redacted Unspecified
 
 > This report describes the Modeling of Unlikely Space-Booster Failures in Risk Calculations, documenting historical launch failure modes and recommending corrective actions to address them using novel modelling techniques.
 
@@ -671,7 +671,7 @@
 
 ### DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000
 
-📄 PDF· Released 5/8/26 · Incident 2/3/00 · Location N/A · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 2/3/00 · Location N/A · Redacted Unspecified
 
 > This report summarizes the historical record of launches occurring at Vandenberg Air Force Base between 1958 and 2000.
 
@@ -679,7 +679,7 @@
 
 ### DOW-UAP-D55, Mission Report, Syria, November 2016
 
-📄 PDF· Released 5/8/26 · Incident 11/18/16 · Location Syria · Redacted Yes
+📄 PDF · Released 5/8/26 · Incident 11/18/16 · Location Syria · Redacted Yes
 
 > This document is a mission briefing summarizing an observation of Unidentified Anomalous Phenomena (UAP) by a U.S. military platform near Latakia, Syria. A U.S. military pilot flying a P-8A aircraft reported observing an object via the aircraft’s EO/IR sensor, which they characterized as appearing to be in “sea skim mode,” traveling at approximately 500 knots (575 mph) on a southeasterly heading. The P-8A lost visual contact with the object after two minutes. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.
 
@@ -687,7 +687,7 @@
 
 ### DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Gulf of Oman · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Gulf of Oman · Redacted Yes
 
 > The United States Northern Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of 21 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2024. An accompanying mission report, DoW-UAP-D8, described the UAP as consisting of an object with a vertical pole or bar attached to the bottom of the object. The observer also reported that the UAP may instead be a reflection from an object in the water. Video Description: 00:00-00:21: An area of contrast visually resembling an inverted teardrop with a vertically linear trailing mass suspended below remains generally within the center of the sensor field-of-view throughout the video. This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.
 
@@ -697,7 +697,7 @@
 
 ### DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Djibouti · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Djibouti · Redacted Yes
 
 > The United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of two seconds of video footage from an infrared sensor aboard a U.S. military platform in 2025. The reporter did not provide any oral or written description of the observation. Video Description: 00:00-00:02: A small, barely distinguishable area of contrast moves from the left side of the sensor field-of-view to the right side, exiting the scene from the bottom right quarter of the screen. This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance. The video is looped for viewing purposes.
 
@@ -707,7 +707,7 @@
 
 ### DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location Southern United States · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location Southern United States · Redacted Yes
 
 > The Department of the Air Force submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of 58 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2020. The reporter did not provide any oral or written description of the observation. Video Description: 00:00-00:03: The sensor tracks an area of contrast acquiring a reticle lock. 00:04-00:30: The area of contrast gradually increases in distinctiveness against the background. 00:31: The sensor narrows its field-of-view to zoom in on the area of contrast. 00:32-00:56: The area of contrast increases in apparent size and distinctiveness. 00:57-00:58: The area of contrast leaves the center of the frame and passes out of the sensor field-of-view, exiting the scene in the bottom right corner of the screen. This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance. AARO Comment: The area of contrast’s apparent increase in size is likely to be at least partially attributable to the U.S. platform closing the distance between itself and the source of the detection.
 
@@ -717,7 +717,7 @@
 
 ### DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026
 
-🎬 Video· Released 5/8/26 · Incident N/A · Location North America · Redacted Yes
+🎬 Video · Released 5/8/26 · Incident N/A · Location North America · Redacted Yes
 
 > The Department of the Army submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and 49 seconds of video from an infrared sensor aboard a U.S. military platform in 2026. The reporter did not provide any oral or written description of the observation. Video Description: 00:00-00:08: The sensor tracks an initial area of interest. 00:09-00:16: The sensor disengages from its previous area of focus and pans from right to left to track two areas of contrast, narrowing the field-of-view to zoom in while panning to maintain the objects' positions generally within the center of the frame. 00:17-01:03: The sensor widens its field-of-view to zoom out, keeping the areas of contrast generally centered within the display. 01:04-01:08: The sensor field-of-view rapidly cycles between levels of zoom, causing the areas of contrast to appear to rapidly increase and decrease in size. 01:09-01:48: The sensor tracks the areas of contrast while maintaining a generally centered position, intermittently cycling between contrast settings. This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.
 
@@ -727,7 +727,7 @@
 
 ### Western US Event
 
-📄 PDF· Released 5/8/26 · Incident 2023 · Location Western United States · Redacted Unspecified
+📄 PDF · Released 5/8/26 · Incident 2023 · Location Western United States · Redacted Unspecified
 
 > This document is a summary of statements by seven US PERSONs employed by the federal government who separately reported observing several unidentified anomalous phenomena in the western United States over the course of two days in 2023. The summary notes the US PERSONS reported four distinct categories of experiences, including observing “orbs launching other orbs” at a distance, observing a large stationary glowing orb at close estimated range, pursuing a large phenomenon near the ground, and observing a large, seemingly transparent phenomenon, reported to being akin to a “translucent kite.” Although there is no technical data directly associated with this report, contextual factors — such as these events sharing features with others reported to the All-domain Anomaly Resolution Office (AARO), the reporters’ credibility, and the potentially anomalous nature of the events themselves — combine to make this report among the most compelling within AARO’s current holdings.
 
