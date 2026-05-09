@@ -78,12 +78,6 @@ After the download completes, every local link in the markdown files (e.g. `down
 - **Local asset links** point to `downloads/...`; run the script to populate. The 3 failed downloads keep their remote URL as a fallback.
 - **Compact metadata**: a single line per record — `Type · Agency · Released · Incident · Location · Redacted`.
 
-## Sources
-
-- Primary release: <https://www.war.gov/medialink/ufo/release_1/>
-- Videos and thumbnails: <https://www.dvidshub.net/>
-- U.S. federal government records, in the public domain under 17 U.S.C. § 105.
-
 ## License
 
 - Original government documents: **Public Domain** (17 U.S.C. § 105)
