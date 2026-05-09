@@ -1,0 +1,2532 @@
+[
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-107-fbi-photo-a1.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a1.png",
+    "asset_kind": "image",
+    "row_id": "row-107",
+    "record_index": 106
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-108-fbi-photo-a2.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a2.png",
+    "asset_kind": "image",
+    "row_id": "row-108",
+    "record_index": 107
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-109-fbi-photo-a3.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a3.png",
+    "asset_kind": "image",
+    "row_id": "row-109",
+    "record_index": 108
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-110-fbi-photo-a4.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a4.png",
+    "asset_kind": "image",
+    "row_id": "row-110",
+    "record_index": 109
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-111-fbi-photo-a5.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a5.png",
+    "asset_kind": "image",
+    "row_id": "row-111",
+    "record_index": 110
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-112-fbi-photo-a6.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a6.png",
+    "asset_kind": "image",
+    "row_id": "row-112",
+    "record_index": 111
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-113-fbi-photo-a7.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a7.png",
+    "asset_kind": "image",
+    "row_id": "row-113",
+    "record_index": 112
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-114-fbi-photo-a8.png",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a8.png",
+    "asset_kind": "image",
+    "row_id": "row-114",
+    "record_index": 113
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-145-nasa-uap-vm1-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm1-apollo-12-1969.jpg",
+    "asset_kind": "image",
+    "row_id": "row-145",
+    "record_index": 144
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-146-nasa-uap-vm2-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm2-apollo-12-1969.jpg",
+    "asset_kind": "image",
+    "row_id": "row-146",
+    "record_index": 145
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-147-nasa-uap-vm3-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm3-apollo-12-1969.jpg",
+    "asset_kind": "image",
+    "row_id": "row-147",
+    "record_index": 146
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-148-nasa-uap-vm4-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm4-apollo-12-1969.jpg",
+    "asset_kind": "image",
+    "row_id": "row-148",
+    "record_index": 147
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-149-nasa-uap-vm5-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm5-apollo-12-1969.jpg",
+    "asset_kind": "image",
+    "row_id": "row-149",
+    "record_index": 148
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/image/row-150-nasa-uap-vm6-apollo-17-1972.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg",
+    "asset_kind": "image",
+    "row_id": "row-150",
+    "record_index": 149
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-001-65-hs1-834228961-62-hq-83894-section-10.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-001",
+    "record_index": 0
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-002-65-hs1-834228961-62-hq-83894-section-2.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-002",
+    "record_index": 1
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-003-65-hs1-834228961-62-hq-83894-section-3.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-003",
+    "record_index": 2
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-004-65-hs1-834228961-62-hq-83894-section-4.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-004",
+    "record_index": 3
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-005-65-hs1-834228961-62-hq-83894-section-5.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-005",
+    "record_index": 4
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-006-65-hs1-834228961-62-hq-83894-section-6.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-006",
+    "record_index": 5
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-007-65-hs1-834228961-62-hq-83894-section-7.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-007",
+    "record_index": 6
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-008-65-hs1-834228961-62-hq-83894-section-9.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-008",
+    "record_index": 7
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-009-65-hs1-834228961-62-hq-83894-serial-130.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-009",
+    "record_index": 8
+  },
+  {
+    "status": "error",
+    "asset_kind": "pdf",
+    "title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-8342289%2BM5%2BM11",
+    "error": "HTTP Error 404: Not Found",
+    "error_class": "not_found",
+    "record_index": 9,
+    "row_id": "row-010"
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-011-65-hs1-834228961-62-hq-83894-serial-164.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_164.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-011",
+    "record_index": 10
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-012-65-hs1-834228961-62-hq-83894-serial-220.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_220.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-012",
+    "record_index": 11
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-013-65-hs1-834228961-62-hq-83894-serial-403.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_403.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-013",
+    "record_index": 12
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-014-65-hs1-834228961-62-hq-83894-serial-438.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-014",
+    "record_index": 13
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-015-65-hs1-834228961-62-hq-83894-serial-449.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-015",
+    "record_index": 14
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-016-65-hs1-834228961-62-hq-83894-sub-a.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-016",
+    "record_index": 15
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-017-18-100754-general-1946-7-vol-2.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-017",
+    "record_index": 16
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-018-18-6369445-general-1948-vol-1.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-018",
+    "record_index": 17
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-019",
+    "record_index": 18
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-020-nasa-uap-d3-gemini-7-transcript-1965.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-020",
+    "record_index": 19
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-022-331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/331_120752_numeric_files_1944%E2%80%931945_37153_german_armament_equipment_documents.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-022",
+    "record_index": 21
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-023-341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-023",
+    "record_index": 22
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-024-341-110677-numerical-file-5-2500.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/341_110677_numerical_file_5-2500.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-024",
+    "record_index": 23
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-025-342-hs1-416511228-319-1-flying-discs-1949.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-025",
+    "record_index": 24
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-026-38-143685-box-incident-summaries-101-172.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-026",
+    "record_index": 25
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-027-38-143685-box-incident-summaries-173-233.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-027",
+    "record_index": 26
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-028-38-143685-box7-incident-summaries-1-100.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-028",
+    "record_index": 27
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-029-59-214434-sp-16-7-18-1963.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_%5B7.18.1963%5D.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-029",
+    "record_index": 28
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-030-59-64634-711-5612-7-2852.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-030",
+    "record_index": 29
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-031-65-hs1-101634279-100-de-18221-serial-844.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-18221_serial_844.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-031",
+    "record_index": 30
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-032-65-hs1-101634279-100-de-26505.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-032",
+    "record_index": 31
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-033-65-hs1-834228961-62-hq-83894-section-1.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-033",
+    "record_index": 32
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-034-65-hs1-834228961-62-hq-83894-section-8.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_8.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-034",
+    "record_index": 33
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-035-dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-035",
+    "record_index": 34
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-036-dow-uap-d12-mission-report-iraq-may-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-036",
+    "record_index": 35
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-037-dow-uap-d14-mission-report-iraq-may-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-037",
+    "record_index": 36
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-038-dow-uap-d16-mission-report-syria-july-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-038",
+    "record_index": 37
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-039-dow-uap-d18-mission-report-iraq-december-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-039",
+    "record_index": 38
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-040-dow-uap-d19-mission-report-syria-february-21-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-040",
+    "record_index": 39
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-041-dow-uap-d20-mission-report-southern-united-states-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-041",
+    "record_index": 40
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-042",
+    "record_index": 41
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-044-dow-uap-d25-mission-report-greece-january-2024.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-044",
+    "record_index": 43
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-045-dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-045",
+    "record_index": 44
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-046-dow-uap-d28-mission-report-iraq-september-2024.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-046",
+    "record_index": 45
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-047-dow-uap-d3-mission-report-arabian-gulf-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-047",
+    "record_index": 46
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-048",
+    "record_index": 47
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-051-dow-uap-d33-mission-report-greece-october-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-051",
+    "record_index": 50
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-052-dow-uap-d35-mission-report-greece-october-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-052",
+    "record_index": 51
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-053-dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-053",
+    "record_index": 52
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-054-dow-uap-d4-mission-report-arabian-gulf-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-054",
+    "record_index": 53
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-055-dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-055",
+    "record_index": 54
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-056-dow-uap-d44-range-fouler-reporting-form-gulf-of-aden-october-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-056",
+    "record_index": 55
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-057-dow-uap-d48-department-of-the-air-force-report-1996.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-057",
+    "record_index": 56
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-058-dow-uap-d49-launch-summary-vandenberg-afb-2000.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-058",
+    "record_index": 57
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-059-dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-059",
+    "record_index": 58
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-060-dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-060",
+    "record_index": 59
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-061-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-061",
+    "record_index": 60
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-062-dow-uap-d52-email-correspondance-na-august-2024.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-062",
+    "record_index": 61
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-063-dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-063",
+    "record_index": 62
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-064-dow-uap-d55-mission-report-syria-november-2016.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-064",
+    "record_index": 63
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-065-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-065",
+    "record_index": 64
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-066-dow-uap-d57-range-fouler-reporting-form-gulf-of-aden-september-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-066",
+    "record_index": 65
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-067-dow-uap-d58-range-fouler-debrief-na-october-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-067",
+    "record_index": 66
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-068-dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-068",
+    "record_index": 67
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-069-dow-uap-d60-mission-report-persian-gulf-august-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-069",
+    "record_index": 68
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-070-dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-070",
+    "record_index": 69
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-071-dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-071",
+    "record_index": 70
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-072-dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-072",
+    "record_index": 71
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-073-dow-uap-d64-mission-report-iran-november-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-073",
+    "record_index": 72
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-074-dow-uap-d65-mission-report-persian-gulf-july-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-074",
+    "record_index": 73
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-075-dow-uap-d7-mission-report-arabian-gulf-2020.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-075",
+    "record_index": 74
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-076-dow-uap-d74-mission-report-syria-november-2023.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-076",
+    "record_index": 75
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-077-dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-077",
+    "record_index": 76
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-078-dow-uap-d8-mission-report-djibouti-2025.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-078",
+    "record_index": 77
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-080-dow-uap-pr20-unresolved-uap-report-kuwait-may-2022.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-080",
+    "record_index": 79
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-115-fbi-photo-b1.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b1.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-115",
+    "record_index": 114
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-116-fbi-photo-b10.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b10.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-116",
+    "record_index": 115
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-117-fbi-photo-b11.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b11.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-117",
+    "record_index": 116
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-118-fbi-photo-b12.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b12.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-118",
+    "record_index": 117
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-119-fbi-photo-b13.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b13.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-119",
+    "record_index": 118
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-120-fbi-photo-b14.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b14.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-120",
+    "record_index": 119
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-121-fbi-photo-b15.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b15.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-121",
+    "record_index": 120
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-122-fbi-photo-b16.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b16.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-122",
+    "record_index": 121
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-123-fbi-photo-b17.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b17.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-123",
+    "record_index": 122
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-124-fbi-photo-b18.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b18.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-124",
+    "record_index": 123
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-125-fbi-photo-b19.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b19.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-125",
+    "record_index": 124
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-126-fbi-photo-b2.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b2.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-126",
+    "record_index": 125
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-127-fbi-photo-b20.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b20.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-127",
+    "record_index": 126
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-128-fbi-photo-b21.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b21.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-128",
+    "record_index": 127
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-129-fbi-photo-b22.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b22.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-129",
+    "record_index": 128
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-130-fbi-photo-b23.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b23.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-130",
+    "record_index": 129
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-131-fbi-photo-b24.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b24.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-131",
+    "record_index": 130
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-132-fbi-photo-b3.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b3.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-132",
+    "record_index": 131
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-133-fbi-photo-b4.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b4.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-133",
+    "record_index": 132
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-134-fbi-photo-b5.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b5.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-134",
+    "record_index": 133
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-135-fbi-photo-b6.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b6.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-135",
+    "record_index": 134
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-136-fbi-photo-b7.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b7.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-136",
+    "record_index": 135
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-137-fbi-photo-b8.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b8.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-137",
+    "record_index": 136
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-138-fbi-photo-b9.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b9.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-138",
+    "record_index": 137
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-139-nasa-uap-d1-apollo-12-transcript-1969.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-139",
+    "record_index": 138
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-140-nasa-uap-d2-apollo-17-transcript-1972.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-140",
+    "record_index": 139
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-141",
+    "record_index": 140
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-142",
+    "record_index": 141
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-143",
+    "record_index": 142
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-144",
+    "record_index": 143
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-151",
+    "record_index": 150
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-152",
+    "record_index": 151
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-153",
+    "record_index": 152
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-154",
+    "record_index": 153
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-155-state-department-uap-cable-5-mexico-september-16-2003.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-155",
+    "record_index": 154
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-156-usper-statement-about-uap-sighting.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-156",
+    "record_index": 155
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-157-fbi-september-2023-sighting-composite-sketch.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-157",
+    "record_index": 156
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-158-fbi-september-2023-sighting-serial-3.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/serial%205%20redacted_redacted.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-158",
+    "record_index": 157
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-159-fbi-september-2023-sighting-serial-4.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/serial-3_redacted.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-159",
+    "record_index": 158
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-160-fbi-september-2023-sighting-serial-5.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/serial-4-redacted_redacted.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-160",
+    "record_index": 159
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/pdf/row-161-western-us-event.pdf",
+    "url": "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf",
+    "asset_kind": "pdf",
+    "row_id": "row-161",
+    "record_index": 160
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006056/DOD_111688723.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr19-unresolved-uap-report-middle-east-may-2022",
+    "record_index": 78
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr21-unresolved-uap-report-iraq-may-2022.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006059/DOD_111688762.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr21-unresolved-uap-report-iraq-may-2022",
+    "record_index": 80
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006063/DOD_111688816.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023",
+    "record_index": 83
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr27-unresolved-uap-report-united-arab-emirates-october-2023.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006067/DOD_111688825.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr27-unresolved-uap-report-united-arab-emirates-october-2023",
+    "record_index": 84
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr28-unresolved-uap-report-greece-january-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006073/DOD_111688954.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr28-unresolved-uap-report-greece-january-2024",
+    "record_index": 85
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006074/DOD_111688964.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024",
+    "record_index": 86
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr31-unresolved-uap-report-syria-october-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006076/DOD_111688970.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr31-unresolved-uap-report-syria-october-2024",
+    "record_index": 87
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr32-unresolved-uap-report-syria-october-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006078/DOD_111688997.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr32-unresolved-uap-report-syria-october-2024",
+    "record_index": 88
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr33-unresolved-uap-report-syria-october-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006079/DOD_111689005.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr33-unresolved-uap-report-syria-october-2024",
+    "record_index": 89
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr34-unresolved-uap-report-greece-october-2023.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006080/DOD_111689011.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr34-unresolved-uap-report-greece-october-2023",
+    "record_index": 90
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr36-unresolved-uap-report-middle-east-may-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006083/DOD_111689030.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr36-unresolved-uap-report-middle-east-may-2020",
+    "record_index": 92
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr37-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006087/DOD_111689044.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr37-unresolved-uap-report-middle-east-2020",
+    "record_index": 93
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr38-unresolved-uap-report-middle-east-2013.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006088/DOD_111689051.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr38-unresolved-uap-report-middle-east-2013",
+    "record_index": 94
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr39-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006089/DOD_111689057.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr39-unresolved-uap-report-middle-east-2020",
+    "record_index": 95
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr40-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006093/DOD_111689082.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr40-unresolved-uap-report-middle-east-2020",
+    "record_index": 96
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr41-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006094/DOD_111689083.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr41-unresolved-uap-report-middle-east-2020",
+    "record_index": 97
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr42-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006097/DOD_111689090.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr42-unresolved-uap-report-middle-east-2020",
+    "record_index": 98
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr43-unresolved-uap-report-africa-2025.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006159/DOD_111689759.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr43-unresolved-uap-report-africa-2025",
+    "record_index": 99
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr44-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006104/DOD_111689115.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr44-unresolved-uap-report-middle-east-2020",
+    "record_index": 100
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr45-unresolved-uap-report-middle-east-2020.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006105/DOD_111689123.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr45-unresolved-uap-report-middle-east-2020",
+    "record_index": 101
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr46-unresolved-uap-report-indopacom-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006106/DOD_111689133.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr46-unresolved-uap-report-indopacom-2024",
+    "record_index": 102
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr47-unresolved-uap-report-indopacom-2023.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006107/DOD_111689142.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr47-unresolved-uap-report-indopacom-2023",
+    "record_index": 103
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/dow-uap-pr49-unresolved-uap-report-department-of-the-army-2026.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006111/DOD_111689168.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "dow-uap-pr49-unresolved-uap-report-department-of-the-army-2026",
+    "record_index": 105
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/nasa-uap-d3a-gemini-7-audio-excerpt-1965.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006119/DOD_111689232.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "nasa-uap-d3a-gemini-7-audio-excerpt-1965",
+    "record_index": 20
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-001-65-hs1-834228961-62-hq-83894-section-10.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_10.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-001",
+    "record_index": 0
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-002-65-hs1-834228961-62-hq-83894-section-2.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_2.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-002",
+    "record_index": 1
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-003-65-hs1-834228961-62-hq-83894-section-3.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_3.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-003",
+    "record_index": 2
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-004-65-hs1-834228961-62-hq-83894-section-4.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_4.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-004",
+    "record_index": 3
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-005-65-hs1-834228961-62-hq-83894-section-5.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_5.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-005",
+    "record_index": 4
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-006-65-hs1-834228961-62-hq-83894-section-6.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_6.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-006",
+    "record_index": 5
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-007-65-hs1-834228961-62-hq-83894-section-7.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_7.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-007",
+    "record_index": 6
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-008-65-hs1-834228961-62-hq-83894-section-9.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_9.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-008",
+    "record_index": 7
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-009-65-hs1-834228961-62-hq-83894-serial-130.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_130.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-009",
+    "record_index": 8
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-010-65-hs1-834228961-62-hq-83894-serial-153.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_153.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-010",
+    "record_index": 9
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-011-65-hs1-834228961-62-hq-83894-serial-164.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_164.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-011",
+    "record_index": 10
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-012-65-hs1-834228961-62-hq-83894-serial-220.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_220.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-012",
+    "record_index": 11
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-013-65-hs1-834228961-62-hq-83894-serial-403.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_403.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-013",
+    "record_index": 12
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-014-65-hs1-834228961-62-hq-83894-serial-438.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_438.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-014",
+    "record_index": 13
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-015-65-hs1-834228961-62-hq-83894-serial-449.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_serial_449.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-015",
+    "record_index": 14
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-016-65-hs1-834228961-62-hq-83894-sub-a.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_sub_a.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-016",
+    "record_index": 15
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-017-18-100754-general-1946-7-vol-2.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/18_100754_%20general%201946-7_vol_2.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-017",
+    "record_index": 16
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-018-18-6369445-general-1948-vol-1.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/18_6369445_general_1948_vol_1.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-018",
+    "record_index": 17
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-019",
+    "record_index": 18
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-020-nasa-uap-d3-gemini-7-transcript-1965.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/255_t_763_r1b_transcripts.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-020",
+    "record_index": 19
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-022-331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/331_120752_numeric_files_1944%E2%80%931945_37153_german_armament_equipment_documents.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-022",
+    "record_index": 21
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-023-341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-023",
+    "record_index": 22
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-024-341-110677-numerical-file-5-2500.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/341_110677_numerical_file_5-2500.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-024",
+    "record_index": 23
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-025-342-hs1-416511228-319-1-flying-discs-1949.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/342_hs1-416511228_box186_319.1-flying-discs-1949.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-025",
+    "record_index": 24
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-026-38-143685-box-incident-summaries-101-172.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_101-172.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-026",
+    "record_index": 25
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-027-38-143685-box-incident-summaries-173-233.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_173-233.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-027",
+    "record_index": 26
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-028-38-143685-box7-incident-summaries-1-100.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_1-100.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-028",
+    "record_index": 27
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-029-59-214434-sp-16-7-18-1963.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_%5B7.18.1963%5D.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-029",
+    "record_index": 28
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-030-59-64634-711-5612-7-2852.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_7.18.1963.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-030",
+    "record_index": 29
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-031-65-hs1-101634279-100-de-18221-serial-844.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-101634279_100-de-18221_serial_844.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-031",
+    "record_index": 30
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-032-65-hs1-101634279-100-de-26505.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-101634279_100-de-26505.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-032",
+    "record_index": 31
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-033-65-hs1-834228961-62-hq-83894-section-1.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_1.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-033",
+    "record_index": 32
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-034-65-hs1-834228961-62-hq-83894-section-8.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/65_hs1-834228961_62-hq-83894_section_8.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-034",
+    "record_index": 33
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-035-dow-uap-d10-mission-report-middle-east-may-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d10-mission-report-middle-east-may-2022.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-035",
+    "record_index": 34
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-036-dow-uap-d12-mission-report-iraq-may-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d12-mission-report-iraq-may-2022.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-036",
+    "record_index": 35
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-037-dow-uap-d14-mission-report-iraq-may-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d14-mission-report-iraq-may-2022.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-037",
+    "record_index": 36
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-038-dow-uap-d16-mission-report-syria-july-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d16-mission-report-syria-july-2022.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-038",
+    "record_index": 37
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-039-dow-uap-d18-mission-report-iraq-december-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d18-mission-report-iraq-december-2022.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-039",
+    "record_index": 38
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-040-dow-uap-d19-mission-report-syria-february-21-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d19-mission-report-syria-february-21-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-040",
+    "record_index": 39
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-041-dow-uap-d20-mission-report-southern-united-states-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d20-mission-report-southern-united-states-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-041",
+    "record_index": 40
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-042",
+    "record_index": 41
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-044-dow-uap-d25-mission-report-greece-january-2024.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d25-mission-report-greece-january-2024.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-044",
+    "record_index": 43
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-045-dow-uap-d27-mission-report-united-arab-emirates-october-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d27-mission-report-united-arab-emirates-october-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-045",
+    "record_index": 44
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-046-dow-uap-d28-mission-report-iraq-september-2024.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d28-mission-report-east-china-sea-2024.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-046",
+    "record_index": 45
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-047-dow-uap-d3-mission-report-arabian-gulf-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d3-mission-report-arabian-gulf-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-047",
+    "record_index": 46
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-048-dow-uap-d32-mission-report-syria-october-2024.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d32-mission-report%2C-syria-october-2024.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-048",
+    "record_index": 47
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-051-dow-uap-d33-mission-report-greece-october-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d33-mission-report-greece-october-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-051",
+    "record_index": 50
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-052-dow-uap-d35-mission-report-greece-october-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d35-mission-report-greece-october-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-052",
+    "record_index": 51
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-053-dow-uap-d38-range-fouler-debrief-middle-east-may-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-053",
+    "record_index": 52
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-054-dow-uap-d4-mission-report-arabian-gulf-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d4-mission-report-arabian-gulf-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-054",
+    "record_index": 53
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-055-dow-uap-d42-range-fouler-debrief-japan-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d42-range-fouler-debrief-japan-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-055",
+    "record_index": 54
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-056-dow-uap-d44-range-fouler-reporting-form-gulf-of-aden-october-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d44-range-fouler-arabian-sea-october-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-056",
+    "record_index": 55
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-057-dow-uap-d48-department-of-the-air-force-report-1996.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d48-report-september-1996.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-057",
+    "record_index": 56
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-058-dow-uap-d49-launch-summary-vandenberg-afb-2000.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d49-launch-summary-february-2000.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-058",
+    "record_index": 57
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-059-dow-uap-d5-mission-report-arabian-gulf-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d5-mission-report-arabian-gulf-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-059",
+    "record_index": 58
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-060-dow-uap-d50-email-correspondence-indopacom-april-2025.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d50-email-correspondence-indopacom-april-2025.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-060",
+    "record_index": 59
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-061-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-061",
+    "record_index": 60
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-062-dow-uap-d52-email-correspondance-na-august-2024.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d52-email-correspondance-na-august-2024.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-062",
+    "record_index": 61
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-063-dow-uap-d54-mission-report-mediterranean-sea-na.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d54-mission-report-mediterranean-sea-na.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-063",
+    "record_index": 62
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-064-dow-uap-d55-mission-report-syria-november-2016.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d55-mission-report-syria-november-2016.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-064",
+    "record_index": 63
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-065-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-065",
+    "record_index": 64
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-066-dow-uap-d57-range-fouler-reporting-form-gulf-of-aden-september-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d57-mission-report-gulf-of-aden-september-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-066",
+    "record_index": 65
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-067-dow-uap-d58-range-fouler-debrief-na-october-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d58-range-fouler-debrief-na-october-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-067",
+    "record_index": 66
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-068-dow-uap-d6-mission-report-arabian-gulf-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d6-mission-report-arabian-gulf-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-068",
+    "record_index": 67
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-069-dow-uap-d60-mission-report-persian-gulf-august-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d60-mission-report-persian-gulf-august-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-069",
+    "record_index": 68
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-070-dow-uap-d61-mission-report-persian-gulf-august-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d61-mission-report-persian-gulf-august-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-070",
+    "record_index": 69
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-071-dow-uap-d62-mission-report-strait-of-hormuz-september-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-071",
+    "record_index": 70
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-072-dow-uap-d63-mission-report-strait-of-hormuz-october-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-072",
+    "record_index": 71
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-073-dow-uap-d64-mission-report-iran-november-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d64-mission-report-iran-november-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-073",
+    "record_index": 72
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-074-dow-uap-d65-mission-report-persian-gulf-july-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d65-mission-report-persian-gulf-july-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-074",
+    "record_index": 73
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-075-dow-uap-d7-mission-report-arabian-gulf-2020.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d7-mission-report-arabian-gulf-2020.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-075",
+    "record_index": 74
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-076-dow-uap-d74-mission-report-syria-november-2023.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d74-mission-report-syria-november-2023.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-076",
+    "record_index": 75
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-077-dow-uap-d75-mission-report-gulf-of-aden-july-2024.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d75-mission-report-gulf-of-aden-july-2024.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-077",
+    "record_index": 76
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-078-dow-uap-d8-mission-report-djibouti-2025.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d8-mission-report-djibouti-2025.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-078",
+    "record_index": 77
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-080-dow-uap-pr20-unresolved-uap-report-kuwait-may-2022.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-pr20.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-080",
+    "record_index": 79
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-082-dow-uap-pr22-unresolved-uap-report-syria-july-2022.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006060/DOD_111688775.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-082",
+    "record_index": 81
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-083-dow-uap-pr23-unresolved-uap-report-iraq-december-2022.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006062/DOD_111688809.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-083",
+    "record_index": 82
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-092-dow-uap-pr35-unresolved-uap-report-greece-october-2023.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006082/DOD_111689022.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-092",
+    "record_index": 91
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-105-dow-uap-pr48-unresolved-uap-report-indopacom-2024.jpg",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006110/DOD_111689167.0000001/720w_q95.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-105",
+    "record_index": 104
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-107-fbi-photo-a1.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a1.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-107",
+    "record_index": 106
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-108-fbi-photo-a2.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a2.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-108",
+    "record_index": 107
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-109-fbi-photo-a3.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a3.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-109",
+    "record_index": 108
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-110-fbi-photo-a4.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a4.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-110",
+    "record_index": 109
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-111-fbi-photo-a5.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a5.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-111",
+    "record_index": 110
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-112-fbi-photo-a6.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a6.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-112",
+    "record_index": 111
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-113-fbi-photo-a7.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a7.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-113",
+    "record_index": 112
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-114-fbi-photo-a8.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a8.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-114",
+    "record_index": 113
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-115-fbi-photo-b1.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b1.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-115",
+    "record_index": 114
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-116-fbi-photo-b10.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b10.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-116",
+    "record_index": 115
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-117-fbi-photo-b11.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b11.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-117",
+    "record_index": 116
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-118-fbi-photo-b12.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b12.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-118",
+    "record_index": 117
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-119-fbi-photo-b13.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b13.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-119",
+    "record_index": 118
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-120-fbi-photo-b14.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b14.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-120",
+    "record_index": 119
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-121-fbi-photo-b15.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b15.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-121",
+    "record_index": 120
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-122-fbi-photo-b16.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b16.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-122",
+    "record_index": 121
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-123-fbi-photo-b17.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b17.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-123",
+    "record_index": 122
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-124-fbi-photo-b18.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b18.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-124",
+    "record_index": 123
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-125-fbi-photo-b19.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b19.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-125",
+    "record_index": 124
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-126-fbi-photo-b2.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b2.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-126",
+    "record_index": 125
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-127-fbi-photo-b20.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b20.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-127",
+    "record_index": 126
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-128-fbi-photo-b21.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b21.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-128",
+    "record_index": 127
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-129-fbi-photo-b22.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b22.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-129",
+    "record_index": 128
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-130-fbi-photo-b23.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b23.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-130",
+    "record_index": 129
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-131-fbi-photo-b24.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b24.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-131",
+    "record_index": 130
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-132-fbi-photo-b3.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b3.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-132",
+    "record_index": 131
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-133-fbi-photo-b4.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b4.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-133",
+    "record_index": 132
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-134-fbi-photo-b5.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b5.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-134",
+    "record_index": 133
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-135-fbi-photo-b6.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b6.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-135",
+    "record_index": 134
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-136-fbi-photo-b7.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b7.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-136",
+    "record_index": 135
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-137-fbi-photo-b8.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b8.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-137",
+    "record_index": 136
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-138-fbi-photo-b9.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-b9.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-138",
+    "record_index": 137
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-139-nasa-uap-d1-apollo-12-transcript-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d1-apollo-12-transcript-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-139",
+    "record_index": 138
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-140-nasa-uap-d2-apollo-17-transcript-1972.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d2-apollo-17-transcript-1972.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-140",
+    "record_index": 139
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-141",
+    "record_index": 140
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-142",
+    "record_index": 141
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-143",
+    "record_index": 142
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d7-skylab-technical-crew-debriefing-1973.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-144",
+    "record_index": 143
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-145-nasa-uap-vm1-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm1-apollo-12-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-145",
+    "record_index": 144
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-146-nasa-uap-vm2-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm2-apollo-12-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-146",
+    "record_index": 145
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-147-nasa-uap-vm3-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm3-apollo-12-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-147",
+    "record_index": 146
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-148-nasa-uap-vm4-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm4-apollo-12-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-148",
+    "record_index": 147
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-149-nasa-uap-vm5-apollo-12-1969.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm5-apollo-12-1969.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-149",
+    "record_index": 148
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-150-nasa-uap-vm6-apollo-17-1972.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm6-apollo-17-1972.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-150",
+    "record_index": 149
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d1-cable-1-papua-new-guinea-january-1985.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-151",
+    "record_index": 150
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d2-cable-2-kazakhstan-january-1994.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-152",
+    "record_index": 151
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00011.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-153",
+    "record_index": 152
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00012.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-154",
+    "record_index": 153
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-155-state-department-uap-cable-5-mexico-september-16-2003.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00013.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-155",
+    "record_index": 154
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-156-usper-statement-about-uap-sighting.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/usper-statement-redacted.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-156",
+    "record_index": 155
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-157-fbi-september-2023-sighting-composite-sketch.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/2024-04-30-composite-sketch.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-157",
+    "record_index": 156
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-158-fbi-september-2023-sighting-serial-3.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/serial%205%20redacted_redacted.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-158",
+    "record_index": 157
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-159-fbi-september-2023-sighting-serial-4.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/serial-3_redacted.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-159",
+    "record_index": 158
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-160-fbi-september-2023-sighting-serial-5.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/serial-4-redacted_redacted.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-160",
+    "record_index": 159
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/thumb/row-161-western-us-event.jpg",
+    "url": "https://www.war.gov/medialink/ufo/release_1/thumbnail/western_us_event_slides_5.08.2026.jpg",
+    "asset_kind": "thumb",
+    "row_id": "row-161",
+    "record_index": 160
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-d14-mission-report-iraq-may-2022.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688762/DOD_111688762.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-d14-mission-report-iraq-may-2022",
+    "record_index": 36
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-d16-mission-report-syria-july-2022.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688775/DOD_111688775.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-d16-mission-report-syria-july-2022",
+    "record_index": 37
+  },
+  {
+    "status": "skipped",
+    "path": "output/downloads/video/dow-uap-d32-mission-report-syria-october-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689005/DOD_111689005.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-d32-mission-report-syria-october-2024",
+    "record_index": 49
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688723/DOD_111688723.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr19-unresolved-uap-report-middle-east-may-2022",
+    "record_index": 78
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr23-unresolved-uap-report-iraq-december-2022.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688809/DOD_111688809.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr23-unresolved-uap-report-iraq-december-2022",
+    "record_index": 82
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688816/DOD_111688816.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023",
+    "record_index": 83
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr28-unresolved-uap-report-greece-january-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688954/DOD_111688954.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr28-unresolved-uap-report-greece-january-2024",
+    "record_index": 85
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688964/DOD_111688964.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024",
+    "record_index": 86
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr32-unresolved-uap-report-syria-october-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688997/DOD_111688997.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr32-unresolved-uap-report-syria-october-2024",
+    "record_index": 88
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr36-unresolved-uap-report-middle-east-may-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689030/DOD_111689030.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr36-unresolved-uap-report-middle-east-may-2020",
+    "record_index": 92
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr37-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689044/DOD_111689044.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr37-unresolved-uap-report-middle-east-2020",
+    "record_index": 93
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr38-unresolved-uap-report-middle-east-2013.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689051/DOD_111689051.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr38-unresolved-uap-report-middle-east-2013",
+    "record_index": 94
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr39-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689057/DOD_111689057.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr39-unresolved-uap-report-middle-east-2020",
+    "record_index": 95
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr40-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689082/DOD_111689082.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr40-unresolved-uap-report-middle-east-2020",
+    "record_index": 96
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/dow-uap-pr43-unresolved-uap-report-africa-2025.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689759/DOD_111689759.mp4",
+    "asset_kind": "video",
+    "row_id": "dow-uap-pr43-unresolved-uap-report-africa-2025",
+    "record_index": 99
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/nasa-uap-d3a-gemini-7-audio-excerpt-1965.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689232/DOD_111689232.mp4",
+    "asset_kind": "video",
+    "row_id": "nasa-uap-d3a-gemini-7-audio-excerpt-1965",
+    "record_index": 20
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-043-dow-uap-d23-mission-report-united-arab-emirates-october-2023.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688825/DOD_111688825.mp4",
+    "asset_kind": "video",
+    "row_id": "row-043",
+    "record_index": 42
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-048-dow-uap-d32-mission-report-syria-october-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688970/DOD_111688970-1920x1080-9000k.mp4",
+    "asset_kind": "video",
+    "row_id": "row-048",
+    "record_index": 47
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-051-dow-uap-d33-mission-report-greece-october-2023.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689011/DOD_111689011.mp4",
+    "asset_kind": "video",
+    "row_id": "row-051",
+    "record_index": 50
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-052-dow-uap-d35-mission-report-greece-october-2023.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689022/DOD_111689022-1920x1080-9000k.mp4",
+    "asset_kind": "video",
+    "row_id": "row-052",
+    "record_index": 51
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-098-dow-uap-pr41-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689083/DOD_111689083.mp4",
+    "asset_kind": "video",
+    "row_id": "row-098",
+    "record_index": 97
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-099-dow-uap-pr42-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689090/DOD_111689090.mp4",
+    "asset_kind": "video",
+    "row_id": "row-099",
+    "record_index": 98
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-101-dow-uap-pr44-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689115/DOD_111689115.mp4",
+    "asset_kind": "video",
+    "row_id": "row-101",
+    "record_index": 100
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-102-dow-uap-pr45-unresolved-uap-report-middle-east-2020.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689123/DOD_111689123.mp4",
+    "asset_kind": "video",
+    "row_id": "row-102",
+    "record_index": 101
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-103-dow-uap-pr46-unresolved-uap-report-indopacom-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689133/DOD_111689133.mp4",
+    "asset_kind": "video",
+    "row_id": "row-103",
+    "record_index": 102
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-104-dow-uap-pr47-unresolved-uap-report-indopacom-2023.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689142/DOD_111689142-1920x1080-9000k.mp4",
+    "asset_kind": "video",
+    "row_id": "row-104",
+    "record_index": 103
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-105-dow-uap-pr48-unresolved-uap-report-indopacom-2024.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689167/DOD_111689167.mp4",
+    "asset_kind": "video",
+    "row_id": "row-105",
+    "record_index": 104
+  },
+  {
+    "status": "downloaded",
+    "path": "output/downloads/video/row-106-dow-uap-pr49-unresolved-uap-report-department-of-the-army-2026.mp4",
+    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689168/DOD_111689168-1920x1080-9000k.mp4",
+    "asset_kind": "video",
+    "row_id": "row-106",
+    "record_index": 105
+  }
+]

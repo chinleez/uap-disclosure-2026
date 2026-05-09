@@ -1,0 +1,57 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This repository contains an organized index, Chinese translations, and
+companion scripts for declassified UAP/UFO materials released by the
+U.S. government on May 8, 2026.
+
+────────────────────────────────────────────────────────────────────────
+Source documents
+────────────────────────────────────────────────────────────────────────
+
+The original PDF, video, image, and metadata files referenced in this
+repository are works of the U.S. federal government and are released
+into the public domain under 17 U.S.C. § 105. They are NOT covered by
+this license — they remain in the public domain and may be used freely
+for any purpose, with no attribution required.
+
+Original sources:
+  • https://www.war.gov/medialink/ufo/release_1/
+  • https://www.dvidshub.net/
+
+────────────────────────────────────────────────────────────────────────
+This repository's added value
+────────────────────────────────────────────────────────────────────────
+
+The following derivative works are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0):
+
+  • Chinese translations of titles, summaries, location names, and
+    metadata (translations_zh.json and the Chinese .md files)
+  • The reorganized document structure (README.md, by-*.md,
+    by-location.md, etc.)
+  • The structured index (uap_index.json)
+  • The download / reproduction scripts (scripts/)
+
+You are free to:
+  • Share — copy and redistribute in any medium or format
+  • Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+  • Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. Suggested credit:
+    "Chinese index by https://github.com/chinleez/uap-disclosure-2026
+     (CC BY 4.0)"
+
+The full license text is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+────────────────────────────────────────────────────────────────────────
+Disclaimer
+────────────────────────────────────────────────────────────────────────
+
+This repository is an unofficial, community-maintained index. The
+maintainers make no claims about the authenticity, completeness, or
+interpretation of any document. Translations are provided on a
+best-effort basis; the English originals (collapsed inside <details>
+blocks) are authoritative.

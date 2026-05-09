@@ -1,0 +1,27 @@
+# 二进制资源不入库（6.7 GB），需通过 scripts/download_resources.py 重现
+downloads/*
+# 但保留下载清单——脚本依赖它
+!downloads/download_manifest.json
+
+# 中间产物
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
