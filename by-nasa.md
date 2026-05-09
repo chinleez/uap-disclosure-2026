@@ -29,35 +29,35 @@ _NASA-UAP-VM1，阿波罗 12 号，1969_
 
 🖼️ 图片 · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1969 · 地点 月球 · 删改 未标注
 
-[本地图片](downloads/image/row-145-nasa-uap-vm1-apollo-12-1969.jpg) · [本地缩略图](downloads/thumb/row-145-nasa-uap-vm1-apollo-12-1969.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm1-apollo-12-1969.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm1-apollo-12-1969.jpg)
 
 ### 146. NASA-UAP-VM2, Apollo 12, 1969
 _NASA-UAP-VM2，阿波罗 12 号，1969_
 
 🖼️ 图片 · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1969 · 地点 月球 · 删改 未标注
 
-[本地图片](downloads/image/row-146-nasa-uap-vm2-apollo-12-1969.jpg) · [本地缩略图](downloads/thumb/row-146-nasa-uap-vm2-apollo-12-1969.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm2-apollo-12-1969.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm2-apollo-12-1969.jpg)
 
 ### 147. NASA-UAP-VM3, Apollo 12, 1969
 _NASA-UAP-VM3，阿波罗 12 号，1969_
 
 🖼️ 图片 · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1969 · 地点 月球 · 删改 未标注
 
-[本地图片](downloads/image/row-147-nasa-uap-vm3-apollo-12-1969.jpg) · [本地缩略图](downloads/thumb/row-147-nasa-uap-vm3-apollo-12-1969.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm3-apollo-12-1969.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm3-apollo-12-1969.jpg)
 
 ### 148. NASA-UAP-VM4, Apollo 12, 1969
 _NASA-UAP-VM4，阿波罗 12 号，1969_
 
 🖼️ 图片 · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1969 · 地点 月球 · 删改 未标注
 
-[本地图片](downloads/image/row-148-nasa-uap-vm4-apollo-12-1969.jpg) · [本地缩略图](downloads/thumb/row-148-nasa-uap-vm4-apollo-12-1969.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm4-apollo-12-1969.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm4-apollo-12-1969.jpg)
 
 ### 149. NASA-UAP-VM5, Apollo 12, 1969
 _NASA-UAP-VM5，阿波罗 12 号，1969_
 
 🖼️ 图片 · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1969 · 地点 月球 · 删改 未标注
 
-[本地图片](downloads/image/row-149-nasa-uap-vm5-apollo-12-1969.jpg) · [本地缩略图](downloads/thumb/row-149-nasa-uap-vm5-apollo-12-1969.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm5-apollo-12-1969.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm5-apollo-12-1969.jpg)
 
 ---
 
@@ -78,21 +78,21 @@ _NASA-UAP-D2，阿波罗 17 号通讯文字记录，1972_
 
 📄 PDF · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1972 · 地点 月球 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-140-nasa-uap-d2-apollo-17-transcript-1972.pdf) · [本地缩略图](downloads/thumb/row-140-nasa-uap-d2-apollo-17-transcript-1972.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d2-apollo-17-transcript-1972.jpg)
 
 ### 142. NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973
 _NASA-UAP-D5，阿波罗 17 号机组科学任务汇报，1973_
 
 📄 PDF · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1973 · 地点 未提供 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) · [本地缩略图](downloads/thumb/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg)
 
 ### 143. NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973
 _NASA-UAP-D6，阿波罗 17 号技术机组任务汇报，1973_
 
 📄 PDF · 机构 NASA（美国国家航空航天局） · 发布 5/8/26 · 事件 1973 · 地点 未提供 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) · [本地缩略图](downloads/thumb/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg)
 
 ---
 
@@ -112,7 +112,7 @@ This file contains an independent report on UFOs written by the French associati
 
 </details>
 
-[本地 PDF](downloads/pdf/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.pdf) · [本地缩略图](downloads/thumb/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.jpg)
 
 ### 20. NASA-UAP-D3, Gemini 7 Transcript, 1965
 _NASA-UAP-D3，双子星 7 号通讯文字记录，1965_
@@ -127,7 +127,7 @@ Gemini 7 was the tenth crewed American spaceflight. This document is a transcrip
 
 </details>
 
-[本地 PDF](downloads/pdf/row-020-nasa-uap-d3-gemini-7-transcript-1965.pdf) · [本地缩略图](downloads/thumb/row-020-nasa-uap-d3-gemini-7-transcript-1965.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/255_t_763_r1b_transcripts.jpg)
 
 ### 21. NASA-UAP-D3A, Gemini 7 Audio Excerpt, 1965
 _NASA-UAP-D3A，双子星 7 号语音节选，1965_
@@ -144,7 +144,7 @@ This audio recording contains air to ground communications and the NASA Public A
 
 **档案信息**：类别 `简报` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `651206-D-D0360-1065` | 时长 `6m11s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/nasa-uap-d3a-gemini-7-audio-excerpt-1965.jpg) · `DVIDS 视频 ID：1006119` · [本地视频](downloads/video/nasa-uap-d3a-gemini-7-audio-excerpt-1965.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006119/DOD_111689232.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006119` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689232/DOD_111689232.mp4)
 
 ### 139. NASA-UAP-D1, Apollo 12 Transcript, 1969
 _NASA-UAP-D1，阿波罗 12 号通讯文字记录，1969_
@@ -159,7 +159,7 @@ Apollo 12 was the fourth crewed U.S. mission to the Moon and the second to land 
 
 </details>
 
-[本地 PDF](downloads/pdf/row-139-nasa-uap-d1-apollo-12-transcript-1969.pdf) · [本地缩略图](downloads/thumb/row-139-nasa-uap-d1-apollo-12-transcript-1969.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d1-apollo-12-transcript-1969.jpg)
 
 ### 141. NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969
 _NASA-UAP-D4，阿波罗 11 号技术机组任务汇报，1969_
@@ -174,7 +174,7 @@ Apollo 11 was the third crewed mission to the Moon and the first to land Astrona
 
 </details>
 
-[本地 PDF](downloads/pdf/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) · [本地缩略图](downloads/thumb/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg)
 
 ### 144. NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973
 _NASA-UAP-D7，1973 年天空实验室技术机组任务汇报_
@@ -189,7 +189,7 @@ Launched on May 14, 1973, Skylab was the United States’ first laboratory in sp
 
 </details>
 
-[本地 PDF](downloads/pdf/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.pdf) · [本地缩略图](downloads/thumb/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d7-skylab-technical-crew-debriefing-1973.jpg)
 
 ### 150. NASA-UAP-VM6, Apollo 17, 1972
 _NASA-UAP-VM6，阿波罗 17 号，1972_
@@ -204,4 +204,4 @@ As part of the review of historical UAP materials under PURSUE, DOW has opened a
 
 </details>
 
-[本地图片](downloads/image/row-150-nasa-uap-vm6-apollo-17-1972.jpg) · [本地缩略图](downloads/thumb/row-150-nasa-uap-vm6-apollo-17-1972.jpg)
+[图片](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm6-apollo-17-1972.jpg)

@@ -12,7 +12,7 @@
 > - Restructured markdown (shared case-file summaries hoisted to section heads, English originals collapsed)
 > - A one-shot reproduction script driven by `download_manifest.json`
 >
-> ⚠️ **Binary assets (PDF / video / image, ~6.7 GB) are not committed.** Run the script below to mirror them locally for offline browsing.
+> All resource links point directly at the original public URLs (war.gov / cloudfront) — click and view in the browser, no clone needed. For an offline archive, `scripts/download_resources.py` mirrors the full 6.7 GB tree.
 
 ## Quick start
 
@@ -29,7 +29,7 @@ python3 scripts/download_resources.py --kinds pdf --workers 16  # PDFs only
 python3 scripts/download_resources.py --dry-run                 # plan, do not fetch
 ```
 
-After the download completes, every local link in the markdown files (e.g. `downloads/pdf/...`) resolves. **You can also browse all documents directly on GitHub** — only the asset links will 404 until you mirror.
+The script mirrors every asset into `downloads/` per `download_manifest.json`. If you only want to read the index, **no clone is required** — open any `.md` on GitHub and every resource link already points at its original public URL.
 
 ## Headline numbers
 
@@ -75,7 +75,7 @@ After the download completes, every local link in the markdown files (e.g. `down
 
 - **Shared summaries hoisted**: records that share a case-file summary appear once at the section header, not per record (e.g. 18 FBI 62-HQ-83894 sections, 32 DOW MISREP reports, 5 Apollo 12 lunar photos).
 - **English originals**: collapsed inside `<details>` blocks in the Chinese files; rendered as body text in the English files.
-- **Local asset links** point to `downloads/...`; run the script to populate. The 3 failed downloads keep their remote URL as a fallback.
+- **Resource links** point at the original public URLs and open directly in the browser; the download script is only needed for offline archives.
 - **Compact metadata**: a single line per record — `Type · Agency · Released · Incident · Location · Redacted`.
 
 ## License

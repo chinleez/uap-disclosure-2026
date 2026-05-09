@@ -23,7 +23,7 @@
 
 **Related**: PDF pairing `059UAP00009`
 
-[Local PDF](downloads/pdf/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.pdf) · [Local thumbnail](downloads/thumb/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d1-cable-1-papua-new-guinea-january-1985.jpg)
 
 ### 152. State Department UAP Cable 2, Kazakhstan, January 31, 1994
 
@@ -31,7 +31,7 @@
 
 **Related**: PDF pairing `059UAP000010`
 
-[Local PDF](downloads/pdf/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.pdf) · [Local thumbnail](downloads/thumb/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d2-cable-2-kazakhstan-january-1994.jpg)
 
 ---
 
@@ -45,7 +45,7 @@
 
 > This memorandum, dated July 18, 1963, from the Executive Office of the President, National Aeronautics and Space Council, relates to thoughts on the space alien race question. Included are details relating to plans if alien intelligence is discovered, expanding scientific knowledge, the possibility of life on Mars, and diplomatic policy.
 
-[Local PDF](downloads/pdf/row-029-59-214434-sp-16-7-18-1963.pdf) · [Local thumbnail](downloads/thumb/row-029-59-214434-sp-16-7-18-1963.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_%5B7.18.1963%5D.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_%5B7.18.1963%5D.jpg)
 
 ### 30. 59_64634_711.5612[7-2852
 
@@ -53,7 +53,7 @@
 
 > This two page memorandum, dated July 18, 1952, relates to increased reports of unidentified flying objects (UFOs). Included in the record are possible explanations of increased sightings, such as technological improvements, historical records of UFOs, and U.S. Air Force opinions on UFOs.
 
-[Local PDF](downloads/pdf/row-030-59-64634-711-5612-7-2852.pdf) · [Local thumbnail](downloads/thumb/row-030-59-64634-711-5612-7-2852.jpg)
+[Local PDF](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_7.18.1963.jpg)
 
 ### 153. State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001
 
@@ -63,7 +63,7 @@
 
 **Related**: PDF pairing `059UAP00011`
 
-[Local PDF](downloads/pdf/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.pdf) · [Local thumbnail](downloads/thumb/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00011.jpg)
 
 ### 154. State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004
 
@@ -73,7 +73,7 @@
 
 **Related**: PDF pairing `059UAP00012`
 
-[Local PDF](downloads/pdf/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.pdf) · [Local thumbnail](downloads/thumb/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00012.jpg)
 
 ### 155. State Department UAP Cable 5, Mexico, September 16, 2003
 
@@ -83,7 +83,7 @@
 
 **Related**: PDF pairing `059UAP00013`
 
-[Local PDF](downloads/pdf/row-155-state-department-uap-cable-5-mexico-september-16-2003.pdf) · [Local thumbnail](downloads/thumb/row-155-state-department-uap-cable-5-mexico-september-16-2003.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00013.jpg)
 
 ### 156. USPER Statement about UAP Sighting
 
@@ -91,4 +91,4 @@
 
 > This is an FBI 302 interview conducted with a senior US intelligence official regarding his first-hand account of a UAP encounter at a US military facility. USPER relayed to FBI agents that he and other federal and state personnel conducted searches to where orbs had been previously seen. After searching the area with a helicopter, they found a “super-hot” orb hovering over the ground. The orb is reported to have travelled for 20 miles at a speed too fast for the helicopter in pursuit. An additional “swarm” of lights were seen moving in all directions. A total of four or five additional orbs were seen shortly thereafter for a short time, flaring up and then down. This pattern of four or five orbs flaring up, then down continued over the next thirty minutes across the area.
 
-[Local PDF](downloads/pdf/row-156-usper-statement-about-uap-sighting.pdf) · [Local thumbnail](downloads/thumb/row-156-usper-statement-about-uap-sighting.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/usper-statement-redacted.jpg)

@@ -22,31 +22,31 @@
 
 🖼️ Image · Agency NASA · Released 5/8/26 · Incident 1969 · Location Moon · Redacted Unspecified
 
-[Local image](downloads/image/row-145-nasa-uap-vm1-apollo-12-1969.jpg) · [Local thumbnail](downloads/thumb/row-145-nasa-uap-vm1-apollo-12-1969.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm1-apollo-12-1969.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm1-apollo-12-1969.jpg)
 
 ### 146. NASA-UAP-VM2, Apollo 12, 1969
 
 🖼️ Image · Agency NASA · Released 5/8/26 · Incident 1969 · Location Moon · Redacted Unspecified
 
-[Local image](downloads/image/row-146-nasa-uap-vm2-apollo-12-1969.jpg) · [Local thumbnail](downloads/thumb/row-146-nasa-uap-vm2-apollo-12-1969.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm2-apollo-12-1969.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm2-apollo-12-1969.jpg)
 
 ### 147. NASA-UAP-VM3, Apollo 12, 1969
 
 🖼️ Image · Agency NASA · Released 5/8/26 · Incident 1969 · Location Moon · Redacted Unspecified
 
-[Local image](downloads/image/row-147-nasa-uap-vm3-apollo-12-1969.jpg) · [Local thumbnail](downloads/thumb/row-147-nasa-uap-vm3-apollo-12-1969.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm3-apollo-12-1969.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm3-apollo-12-1969.jpg)
 
 ### 148. NASA-UAP-VM4, Apollo 12, 1969
 
 🖼️ Image · Agency NASA · Released 5/8/26 · Incident 1969 · Location Moon · Redacted Unspecified
 
-[Local image](downloads/image/row-148-nasa-uap-vm4-apollo-12-1969.jpg) · [Local thumbnail](downloads/thumb/row-148-nasa-uap-vm4-apollo-12-1969.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm4-apollo-12-1969.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm4-apollo-12-1969.jpg)
 
 ### 149. NASA-UAP-VM5, Apollo 12, 1969
 
 🖼️ Image · Agency NASA · Released 5/8/26 · Incident 1969 · Location Moon · Redacted Unspecified
 
-[Local image](downloads/image/row-149-nasa-uap-vm5-apollo-12-1969.jpg) · [Local thumbnail](downloads/thumb/row-149-nasa-uap-vm5-apollo-12-1969.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm5-apollo-12-1969.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm5-apollo-12-1969.jpg)
 
 ---
 
@@ -60,19 +60,19 @@
 
 📄 PDF · Agency NASA · Released 5/8/26 · Incident 1972 · Location Moon · Redacted Unspecified
 
-[Local PDF](downloads/pdf/row-140-nasa-uap-d2-apollo-17-transcript-1972.pdf) · [Local thumbnail](downloads/thumb/row-140-nasa-uap-d2-apollo-17-transcript-1972.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d2-apollo-17-transcript-1972.jpg)
 
 ### 142. NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973
 
 📄 PDF · Agency NASA · Released 5/8/26 · Incident 1973 · Location N/A · Redacted Unspecified
 
-[Local PDF](downloads/pdf/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) · [Local thumbnail](downloads/thumb/row-142-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.jpg)
 
 ### 143. NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973
 
 📄 PDF · Agency NASA · Released 5/8/26 · Incident 1973 · Location N/A · Redacted Unspecified
 
-[Local PDF](downloads/pdf/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) · [Local thumbnail](downloads/thumb/row-143-nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.jpg)
 
 ---
 
@@ -86,7 +86,7 @@
 
 > This file contains an independent report on UFOs written by the French association COMETA (previously published in the French magazine VDS in 1999), which details the results of a study by the Institute of Higher Studies for National Defence. The file also includes a letter from Carol Rosin in which she notes that she was spokesperson for von Braun during the last years of his life.
 
-[Local PDF](downloads/pdf/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.pdf) · [Local thumbnail](downloads/thumb/row-019-255-413270-ufos-and-defense-what-should-we-prepare-for.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.jpg)
 
 ### 20. NASA-UAP-D3, Gemini 7 Transcript, 1965
 
@@ -94,7 +94,7 @@
 
 > Gemini 7 was the tenth crewed American spaceflight. This document is a transcript of communications between the flight crew, Astronauts James “Jim” Lovell and Frank Borman, and the Manned Flight Center (now known as Johnson Space Center) in Houston, Texas. The transcript begins with Borman’s report of a “bogey,” contemporary nomenclature for an unknown aircraft, as well as a debris field. Borman described the debris field as consisting of “very, very many […] hundreds of little particles.” He estimated the particles’ distance from the spacecraft to be four miles. Lovell described observing a “brilliant body in the sun against a black background with trillions of particles on it.” This document also includes handwritten notes documenting the encounter, annotated with the phrase “UFO Sighting by Borman” in the top right corner.
 
-[Local PDF](downloads/pdf/row-020-nasa-uap-d3-gemini-7-transcript-1965.pdf) · [Local thumbnail](downloads/thumb/row-020-nasa-uap-d3-gemini-7-transcript-1965.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/255_t_763_r1b_transcripts.jpg)
 
 ### 21. NASA-UAP-D3A, Gemini 7 Audio Excerpt, 1965
 
@@ -104,7 +104,7 @@
 
 **Archive Info**: Category `Briefings` | Unit `All Domain Anomaly Resolution Office` | VIRIN `651206-D-D0360-1065` | Duration `6m11s` | Aspect `16:9` | DVIDS Location `Undisclosed Location`
 
-[Local thumbnail](downloads/thumb/nasa-uap-d3a-gemini-7-audio-excerpt-1965.jpg) · `DVIDS Video ID: 1006119` · [Local video](downloads/video/nasa-uap-d3a-gemini-7-audio-excerpt-1965.mp4)
+[Thumbnail](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006119/DOD_111689232.0000001/720w_q95.jpg) · `DVIDS Video ID: 1006119` · [Video](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689232/DOD_111689232.mp4)
 
 ### 139. NASA-UAP-D1, Apollo 12 Transcript, 1969
 
@@ -112,7 +112,7 @@
 
 > Apollo 12 was the fourth crewed U.S. mission to the Moon and the second to land astronauts on the lunar surface. This document is an excerpt from the Apollo 12 Technical Air-to-Ground Voice Transcription, November 1969, highlighting two periods in which astronauts reported observing unidentified phenomenon: a one hour period on the fifth day, and a two minute period on the sixth day. These transcripts contain contemporaneous observations by the flight crew reacting to unidentified phenomenon. • Day 05, Hour 19, Minute 14, Second 58 through Day 05, Hour 20, Minute 12, Second 14: o At 05:19:27:25, the pilot of the Lunar Module (LMP-LM), Astronaut Alan L. Bean, described observing particles and flashes of light “sailing off in space” via the onboard Alignment Optical Telescope (AOT). He characterized these phenomenon as “escaping the Moon.” • Day 06, Hour 00, Minute 21, Second 42 through Day 06, Hour 00, Minute 23, Second 33: o Mission Commander, Charles “Pete” Conrad, described observing floating debris outside the lunar module, which had been illuminated by the module’s onboard tracking light. At 06:00:21:51, Conrad assessed that the tracking light had burnt out because he could no longer see the debris from the module.
 
-[Local PDF](downloads/pdf/row-139-nasa-uap-d1-apollo-12-transcript-1969.pdf) · [Local thumbnail](downloads/thumb/row-139-nasa-uap-d1-apollo-12-transcript-1969.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d1-apollo-12-transcript-1969.jpg)
 
 ### 141. NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969
 
@@ -120,7 +120,7 @@
 
 > Apollo 11 was the third crewed mission to the Moon and the first to land Astronauts on the lunar surface. This document is an excerpt from the Apollo 11 Technical Crew Debriefing (Volumes 1 and 2) from July 31, 1969. The document highlights three observations: one, an object on the way out to the Moon; two, flashes of light inside the cabin; and three, a sighting on the return trip of a bright light tentatively assumed by the crew to be a laser. • Page 6-33 (Vol. 1). [Lunar Module Pilot for Apollo 11, Buzz Aldrin]: “The first unusual thing that we saw I guess was 1 day out or something pretty close to the moon. It had a sizeable dimension to it, so we put the monocular on it.” The crew speculated that it could have been the S-IVB stage of the Saturn V launch vehicle. • Page 6-37 (Vol. 1). [Lunar Module Pilot for Apollo 11, Buzz Aldrin] “The other observation that I made accumulated gradually. I don’t know whether I saw it the first night, but I’m sure I saw it the second night. I was trying to go to sleep with all the lights out. I observed what I thought were little flashes inside the cabin, spaced a couple of minutes apart…” • Page 21-1 (Vol. 2). [Lunar Module Pilot for Apollo 11, Buzz Aldrin] “I observed what appeared to be a fairly bright light source which we tentatively ascribed to a possible laser.”
 
-[Local PDF](downloads/pdf/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) · [Local thumbnail](downloads/thumb/row-141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.jpg)
 
 ### 144. NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973
 
@@ -128,7 +128,7 @@
 
 > Launched on May 14, 1973, Skylab was the United States’ first laboratory in space. From 1973 to 1974, the station was visited by three crews. This document contains excerpts from all three crews to visit the station. In the first excerpt taken from Skylab 1/2 [first crew] Technical Debriefing from June 30, 1973, highlights crew observations of light flashes. The second excerpt taken from Skylab 1/3 Technical Crew Debriefing from October 4, 1973, highlights two observations—a satellite in similar orbit and another object with a “reddish hue to it.” The final excerpt taken from the Skylab 1/4 Technical Crew Debriefing from February 22, 1974, highlights an observation of flashing lights outside Skylab. • Skylab 2 crew observation: o Page 23-20. [Science Pilot for Skylab 2, Joesph Kerwin] “We saw light flashes. I think all of us saw them. I saw them most often when I was in the sack at night with my eyes closed but awake naturally. They tended to wax and wane in frequency.” • Skylab 3 crew observations: o Page 7-4. [Science Pilot for Skylab 3, Owen Garriott] “We saw that satellite about a week before splashdown. That was one of the most unusual things that we saw and I guess Jack [Lousma] noticed it looking out the window. This bright reddish object was out there and we tracked it for about 5 or 10 minutes. It was obviously a satellite in a very similar orbit to our own.” o Page 20-1. [Science Pilot for Skylab 3, Owen Garriott] “Jack [Lousma] first noticed this rather large red star out the wardroom window. Upon close examination, it was much brighter than Jupiter or any of the other planets. It had a reddish hue to it, even though it was well above the horizon.” • Skylab 4 crew observation o Page 7-8. [Commander for Skylab 4, Gerald P. Carr] “One other area of unusual events that we reported on the dump tapes was that on occasion we saw some lights flashing outside with very a definite motion relative to ours. We presumed that they were other pieces of Skylab, or possibly other satellites.”
 
-[Local PDF](downloads/pdf/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.pdf) · [Local thumbnail](downloads/thumb/row-144-nasa-uap-d7-skylab-techincal-crew-debriefing-1973.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-d7-skylab-technical-crew-debriefing-1973.jpg)
 
 ### 150. NASA-UAP-VM6, Apollo 17, 1972
 
@@ -136,4 +136,4 @@
 
 > As part of the review of historical UAP materials under PURSUE, DOW has opened a case to investigate the accompanying NASA photograph from the Apollo 17 mission, taken December 1972. The image contains three “dots” in a triangular formation in the lower right quadrant of the lunar sky that is clearly visible upon magnification of the image. While this photo has been previously released and discussed by keen observers, there is no consensus about the nature of the anomaly. New preliminary US government analysis suggests the image feature is potentially the result of a physical object in the scene. Additionally, as part of this investigation, the government has obtained the original film from the Apollo 17 mission and the results of the full NASA and DOW analysis will be released when completed.
 
-[Local image](downloads/image/row-150-nasa-uap-vm6-apollo-17-1972.jpg) · [Local thumbnail](downloads/thumb/row-150-nasa-uap-vm6-apollo-17-1972.jpg)
+[Image](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg) · [Thumbnail](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm6-apollo-17-1972.jpg)

@@ -30,7 +30,7 @@ _State Department UAP Cable 1，巴布亚新几内亚，1 月 28 日，1985_
 
 **关联档案**：配对 PDF `059UAP00009`
 
-[本地 PDF](downloads/pdf/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.pdf) · [本地缩略图](downloads/thumb/row-151-state-department-uap-cable-1-papua-new-guinea-january-28-1985.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d1-cable-1-papua-new-guinea-january-1985.jpg)
 
 ### 152. State Department UAP Cable 2, Kazakhstan, January 31, 1994
 _State Department UAP Cable 2，哈萨克斯坦，1 月 31 日，1994_
@@ -39,7 +39,7 @@ _State Department UAP Cable 2，哈萨克斯坦，1 月 31 日，1994_
 
 **关联档案**：配对 PDF `059UAP000010`
 
-[本地 PDF](downloads/pdf/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.pdf) · [本地缩略图](downloads/thumb/row-152-state-department-uap-cable-2-kazakhstan-january-31-1994.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dos-uap-d2-cable-2-kazakhstan-january-1994.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ This memorandum, dated July 18, 1963, from the Executive Office of the President
 
 </details>
 
-[本地 PDF](downloads/pdf/row-029-59-214434-sp-16-7-18-1963.pdf) · [本地缩略图](downloads/thumb/row-029-59-214434-sp-16-7-18-1963.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_%5B7.18.1963%5D.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_%5B7.18.1963%5D.jpg)
 
 ### 30. 59_64634_711.5612[7-2852
 
@@ -73,7 +73,7 @@ This two page memorandum, dated July 18, 1952, relates to increased reports of u
 
 </details>
 
-[本地 PDF](downloads/pdf/row-030-59-64634-711-5612-7-2852.pdf) · [本地缩略图](downloads/thumb/row-030-59-64634-711-5612-7-2852.jpg)
+[本地 PDF](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/59_214434_sp_16_7.18.1963.jpg)
 
 ### 153. State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001
 _State Department UAP Cable 3，第比利斯，格鲁吉亚，10 月 30 日，2001_
@@ -90,7 +90,7 @@ On October 28-29, there was an incident alleged by the Georgian Foreign Ministry
 
 **关联档案**：配对 PDF `059UAP00011`
 
-[本地 PDF](downloads/pdf/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.pdf) · [本地缩略图](downloads/thumb/row-153-state-department-uap-cable-3-tbilisi-georgia-october-30-2001.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00011.jpg)
 
 ### 154. State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004
 _State Department UAP Cable 4，阿什哈巴德，土库曼斯坦，11 月 5 日，2004_
@@ -107,7 +107,7 @@ UFOlogists of Turkmenistan has gained a positive reputation as a reliable partne
 
 **关联档案**：配对 PDF `059UAP00012`
 
-[本地 PDF](downloads/pdf/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.pdf) · [本地缩略图](downloads/thumb/row-154-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00012.jpg)
 
 ### 155. State Department UAP Cable 5, Mexico, September 16, 2003
 _State Department UAP Cable 5，墨西哥，9 月 16 日，2003_
@@ -124,7 +124,7 @@ On September 12, 20023 the Mexican Congress heard testimony on UAP from experts 
 
 **关联档案**：配对 PDF `059UAP00013`
 
-[本地 PDF](downloads/pdf/row-155-state-department-uap-cable-5-mexico-september-16-2003.pdf) · [本地缩略图](downloads/thumb/row-155-state-department-uap-cable-5-mexico-september-16-2003.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/059uap00013.jpg)
 
 ### 156. USPER Statement about UAP Sighting
 
@@ -138,4 +138,4 @@ This is an FBI 302 interview conducted with a senior US intelligence official re
 
 </details>
 
-[本地 PDF](downloads/pdf/row-156-usper-statement-about-uap-sighting.pdf) · [本地缩略图](downloads/thumb/row-156-usper-statement-about-uap-sighting.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/usper-statement-redacted.jpg)

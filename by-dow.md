@@ -39,14 +39,14 @@ _DOW-UAP-D10，任务报告，中东，2022 年 5 月_
 
 **关联档案**：配对视频 [`PR-19` → DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022](#79-dow-uap-pr19-unresolved-uap-report-middle-east-may-2022)
 
-[本地 PDF](downloads/pdf/row-035-dow-uap-d10-mission-report-middle-east-may-2022.pdf) · [本地缩略图](downloads/thumb/row-035-dow-uap-d10-mission-report-middle-east-may-2022.jpg) · `DVIDS 视频 ID：1006056` · [本地视频](downloads/video/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d10-mission-report-middle-east-may-2022.jpg) · `DVIDS 视频 ID：1006056` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688723/DOD_111688723.mp4)
 
 ### 36. DOW-UAP-D12, Mission Report, Iraq, May 2022
 _DOW-UAP-D12，任务报告，伊拉克，2022 年 5 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 5/20/22 · 地点 伊拉克 · 删改 是
 
-[本地 PDF](downloads/pdf/row-036-dow-uap-d12-mission-report-iraq-may-2022.pdf) · [本地缩略图](downloads/thumb/row-036-dow-uap-d12-mission-report-iraq-may-2022.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d12-mission-report-iraq-may-2022.jpg)
 
 ### 37. DOW-UAP-D14, Mission Report, Iraq, May 2022
 _DOW-UAP-D14，任务报告，伊拉克，2022 年 5 月_
@@ -57,7 +57,7 @@ _DOW-UAP-D14，任务报告，伊拉克，2022 年 5 月_
 
 **关联档案**：配对视频 [`PR-21` → DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022](#81-dow-uap-pr21-unresolved-uap-report-iraq-may-2022)
 
-[本地 PDF](downloads/pdf/row-037-dow-uap-d14-mission-report-iraq-may-2022.pdf) · [本地缩略图](downloads/thumb/row-037-dow-uap-d14-mission-report-iraq-may-2022.jpg) · `DVIDS 视频 ID：1006059` · [本地视频](downloads/video/dow-uap-d14-mission-report-iraq-may-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d14-mission-report-iraq-may-2022.jpg) · `DVIDS 视频 ID：1006059` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688762/DOD_111688762.mp4)
 
 ### 38. DOW-UAP-D16, Mission Report, Syria, July 2022
 _DOW-UAP-D16，任务报告，叙利亚，2022 年 7 月_
@@ -68,7 +68,7 @@ _DOW-UAP-D16，任务报告，叙利亚，2022 年 7 月_
 
 **关联档案**：配对视频 [`PR-22` → DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022](#82-dow-uap-pr22-unresolved-uap-report-syria-july-2022)
 
-[本地 PDF](downloads/pdf/row-038-dow-uap-d16-mission-report-syria-july-2022.pdf) · [本地缩略图](downloads/thumb/row-038-dow-uap-d16-mission-report-syria-july-2022.jpg) · `DVIDS 视频 ID：1006060` · [本地视频](downloads/video/dow-uap-d16-mission-report-syria-july-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d16-mission-report-syria-july-2022.jpg) · `DVIDS 视频 ID：1006060` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688775/DOD_111688775.mp4)
 
 ### 39. DOW-UAP-D18, Mission Report, Iraq, December 2022
 _DOW-UAP-D18，任务报告，伊拉克，2022 年 12 月_
@@ -79,21 +79,21 @@ _DOW-UAP-D18，任务报告，伊拉克，2022 年 12 月_
 
 **关联档案**：配对视频 [`PR-23` → DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022](#83-dow-uap-pr23-unresolved-uap-report-iraq-december-2022)
 
-[本地 PDF](downloads/pdf/row-039-dow-uap-d18-mission-report-iraq-december-2022.pdf) · [本地缩略图](downloads/thumb/row-039-dow-uap-d18-mission-report-iraq-december-2022.jpg) · `DVIDS 视频 ID：1006062` · [本地视频](downloads/video/dow-uap-pr23-unresolved-uap-report-iraq-december-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d18-mission-report-iraq-december-2022.jpg) · `DVIDS 视频 ID：1006062` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688809/DOD_111688809.mp4)
 
 ### 40. DOW-UAP-D19, Mission Report, Syria, February 21, 2023
 _DOW-UAP-D19，任务报告，叙利亚，2 月 21 日，2023_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 2/21/23 · 地点 叙利亚 · 删改 是
 
-[本地 PDF](downloads/pdf/row-040-dow-uap-d19-mission-report-syria-february-21-2023.pdf) · [本地缩略图](downloads/thumb/row-040-dow-uap-d19-mission-report-syria-february-21-2023.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d19-mission-report-syria-february-21-2023.jpg)
 
 ### 41. DOW-UAP-D20, Mission Report, Southern United States, 2020
 _DOW-UAP-D20，任务报告，美国南部，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 3/31/23 · 地点 伊拉克 · 删改 是
 
-[本地 PDF](downloads/pdf/row-041-dow-uap-d20-mission-report-southern-united-states-2020.pdf) · [本地缩略图](downloads/thumb/row-041-dow-uap-d20-mission-report-southern-united-states-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d20-mission-report-southern-united-states-2020.jpg)
 
 ### 42. DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023
 _DOW-UAP-D23，任务报告，阿联酋，2023 年 10 月_
@@ -104,7 +104,7 @@ _DOW-UAP-D23，任务报告，阿联酋，2023 年 10 月_
 
 **关联档案**：配对视频 [`PR-26` → DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023](#84-dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023)
 
-[本地 PDF](downloads/pdf/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [本地缩略图](downloads/thumb/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006063` · [本地视频](downloads/video/dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006063` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688816/DOD_111688816.mp4)
 
 ### 43. DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023
 _DOW-UAP-D23，任务报告，阿联酋，2023 年 10 月_
@@ -115,35 +115,35 @@ _DOW-UAP-D23，任务报告，阿联酋，2023 年 10 月_
 
 **关联档案**：配对视频 [`PR-27` → DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023](#85-dow-uap-pr27-unresolved-uap-report-united-arab-emirates-october-2023)
 
-[本地 PDF](downloads/pdf/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [本地缩略图](downloads/thumb/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006067` · [本地视频](downloads/video/row-043-dow-uap-d23-mission-report-united-arab-emirates-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d23-mission-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006067` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688825/DOD_111688825.mp4)
 
 ### 44. DOW-UAP-D25, Mission Report, Greece, January 2024
 _DOW-UAP-D25，任务报告，希腊，2024 年 1 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 1/25/24 · 地点 地中海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-044-dow-uap-d25-mission-report-greece-january-2024.pdf) · [本地缩略图](downloads/thumb/row-044-dow-uap-d25-mission-report-greece-january-2024.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d25-mission-report-greece-january-2024.jpg)
 
 ### 45. DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023
 _DOW-UAP-D27，任务报告，阿联酋，2023 年 10 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 6/7/24 · 地点 阿曼湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-045-dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf) · [本地缩略图](downloads/thumb/row-045-dow-uap-d27-mission-report-united-arab-emirates-october-2023.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d27-mission-report-united-arab-emirates-october-2023.jpg)
 
 ### 46. DOW-UAP-D28, Mission Report, Iraq, September 2024
 _DOW-UAP-D28，任务报告，伊拉克，2024 年 9 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 9/20/24 · 地点 伊拉克 · 删改 是
 
-[本地 PDF](downloads/pdf/row-046-dow-uap-d28-mission-report-iraq-september-2024.pdf) · [本地缩略图](downloads/thumb/row-046-dow-uap-d28-mission-report-iraq-september-2024.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d28-mission-report-east-china-sea-2024.jpg)
 
 ### 47. DOW-UAP-D3, Mission Report, Arabian Gulf, 2020
 _DOW-UAP-D3，任务报告，阿拉伯湾，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-047-dow-uap-d3-mission-report-arabian-gulf-2020.pdf) · [本地缩略图](downloads/thumb/row-047-dow-uap-d3-mission-report-arabian-gulf-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d3-mission-report-arabian-gulf-2020.jpg)
 
 ### 48. DOW-UAP-D32, Mission Report, Syria, October 2024
 _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
@@ -154,7 +154,7 @@ _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对视频 [`PR-31` → DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024](#88-dow-uap-pr31-unresolved-uap-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/row-048-dow-uap-d32-mission-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006076` · [本地视频](downloads/video/row-048-dow-uap-d32-mission-report-syria-october-2024.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d32-mission-report%2C-syria-october-2024.jpg) · `DVIDS 视频 ID：1006076` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688970/DOD_111688970-1920x1080-9000k.mp4)
 
 ### 49. DOW-UAP-D32, Mission Report, Syria, October 2024
 _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
@@ -165,7 +165,7 @@ _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对视频 [`PR-32` → DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024](#89-dow-uap-pr32-unresolved-uap-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/row-048-dow-uap-d32-mission-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006078` · [本地视频](downloads/video/dow-uap-pr32-unresolved-uap-report-syria-october-2024.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d32-mission-report%2C-syria-october-2024.jpg) · `DVIDS 视频 ID：1006078` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688997/DOD_111688997.mp4)
 
 ### 50. DOW-UAP-D32, Mission Report, Syria, October 2024
 _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
@@ -176,7 +176,7 @@ _DOW-UAP-D32，任务报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对视频 [`PR-33` → DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024](#90-dow-uap-pr33-unresolved-uap-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/row-048-dow-uap-d32-mission-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006079` · [原始视频 1920x1080 MP4（远程，未下载）](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689005/DOD_111689005.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d32-mission-report%2C-syria-october-2024.jpg) · `DVIDS 视频 ID：1006079` · [原始视频 1920x1080 MP4（远程，未下载）](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689005/DOD_111689005.mp4)
 
 ### 51. DOW-UAP-D33, Mission Report, Greece, October 2023
 _DOW-UAP-D33，任务报告，希腊，2023 年 10 月_
@@ -187,7 +187,7 @@ _DOW-UAP-D33，任务报告，希腊，2023 年 10 月_
 
 **关联档案**：配对视频 [`PR-34` → DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023](#91-dow-uap-pr34-unresolved-uap-report-greece-october-2023)
 
-[本地 PDF](downloads/pdf/row-051-dow-uap-d33-mission-report-greece-october-2023.pdf) · [本地缩略图](downloads/thumb/row-051-dow-uap-d33-mission-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006080` · [本地视频](downloads/video/row-051-dow-uap-d33-mission-report-greece-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d33-mission-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006080` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689011/DOD_111689011.mp4)
 
 ### 52. DOW-UAP-D35, Mission Report, Greece, October 2023
 _DOW-UAP-D35，任务报告，希腊，2023 年 10 月_
@@ -198,105 +198,105 @@ _DOW-UAP-D35，任务报告，希腊，2023 年 10 月_
 
 **关联档案**：配对视频 [`PR-35` → DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023](#92-dow-uap-pr35-unresolved-uap-report-greece-october-2023)
 
-[本地 PDF](downloads/pdf/row-052-dow-uap-d35-mission-report-greece-october-2023.pdf) · [本地缩略图](downloads/thumb/row-052-dow-uap-d35-mission-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006082` · [本地视频](downloads/video/row-052-dow-uap-d35-mission-report-greece-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d35-mission-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006082` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689022/DOD_111689022-1920x1080-9000k.mp4)
 
 ### 54. DOW-UAP-D4, Mission Report, Arabian Gulf, 2020
 _DOW-UAP-D4，任务报告，阿拉伯湾，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-054-dow-uap-d4-mission-report-arabian-gulf-2020.pdf) · [本地缩略图](downloads/thumb/row-054-dow-uap-d4-mission-report-arabian-gulf-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d4-mission-report-arabian-gulf-2020.jpg)
 
 ### 59. DOW-UAP-D5, Mission Report, Arabian Gulf, 2020
 _DOW-UAP-D5，任务报告，阿拉伯湾，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 地中海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-059-dow-uap-d5-mission-report-arabian-gulf-2020.pdf) · [本地缩略图](downloads/thumb/row-059-dow-uap-d5-mission-report-arabian-gulf-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d5-mission-report-arabian-gulf-2020.jpg)
 
 ### 63. DOW-UAP-D54, Mission Report, Mediterranean Sea, NA
 _DOW-UAP-D54，任务报告，地中海，未提供_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 地中海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-063-dow-uap-d54-mission-report-mediterranean-sea-na.pdf) · [本地缩略图](downloads/thumb/row-063-dow-uap-d54-mission-report-mediterranean-sea-na.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d54-mission-report-mediterranean-sea-na.jpg)
 
 ### 68. DOW-UAP-D6, Mission Report, Arabian Gulf, 2020
 _DOW-UAP-D6，任务报告，阿拉伯湾，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 太平洋 · 删改 是
 
-[本地 PDF](downloads/pdf/row-068-dow-uap-d6-mission-report-arabian-gulf-2020.pdf) · [本地缩略图](downloads/thumb/row-068-dow-uap-d6-mission-report-arabian-gulf-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d6-mission-report-arabian-gulf-2020.jpg)
 
 ### 69. DOW-UAP-D60, Mission Report, Persian Gulf, August 2020
 _DOW-UAP-D60，任务报告，波斯湾，2020 年 8 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 8/8/20 · 地点 波斯湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-069-dow-uap-d60-mission-report-persian-gulf-august-2020.pdf) · [本地缩略图](downloads/thumb/row-069-dow-uap-d60-mission-report-persian-gulf-august-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d60-mission-report-persian-gulf-august-2020.jpg)
 
 ### 70. DOW-UAP-D61, Mission Report, Persian Gulf, August 2020
 _DOW-UAP-D61，任务报告，波斯湾，2020 年 8 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 8/27/20 · 地点 波斯湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-070-dow-uap-d61-mission-report-persian-gulf-august-2020.pdf) · [本地缩略图](downloads/thumb/row-070-dow-uap-d61-mission-report-persian-gulf-august-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d61-mission-report-persian-gulf-august-2020.jpg)
 
 ### 71. DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020
 _DOW-UAP-D62，任务报告，霍尔木兹海峡，2020 年 9 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 9/16/20 · 地点 霍尔木兹海峡 · 删改 是
 
-[本地 PDF](downloads/pdf/row-071-dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf) · [本地缩略图](downloads/thumb/row-071-dow-uap-d62-mission-report-strait-of-hormuz-september-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.jpg)
 
 ### 72. DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020
 _DOW-UAP-D63，任务报告，霍尔木兹海峡，2020 年 10 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 10/1/20 · 地点 霍尔木兹海峡 · 删改 是
 
-[本地 PDF](downloads/pdf/row-072-dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf) · [本地缩略图](downloads/thumb/row-072-dow-uap-d63-mission-report-strait-of-hormuz-october-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.jpg)
 
 ### 73. DOW-UAP-D64, Mission Report, Iran, November 2020
 _DOW-UAP-D64，任务报告，伊朗，2020 年 11 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 11/2/20 · 地点 伊朗 · 删改 是
 
-[本地 PDF](downloads/pdf/row-073-dow-uap-d64-mission-report-iran-november-2020.pdf) · [本地缩略图](downloads/thumb/row-073-dow-uap-d64-mission-report-iran-november-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d64-mission-report-iran-november-2020.jpg)
 
 ### 74. DOW-UAP-D65, Mission Report, Persian Gulf, July 2020
 _DOW-UAP-D65，任务报告，波斯湾，2020 年 7 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 7/16/20 · 地点 波斯湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-074-dow-uap-d65-mission-report-persian-gulf-july-2020.pdf) · [本地缩略图](downloads/thumb/row-074-dow-uap-d65-mission-report-persian-gulf-july-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d65-mission-report-persian-gulf-july-2020.jpg)
 
 ### 75. DOW-UAP-D7, Mission Report, Arabian Gulf, 2020
 _DOW-UAP-D7，任务报告，阿拉伯湾，2020_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-075-dow-uap-d7-mission-report-arabian-gulf-2020.pdf) · [本地缩略图](downloads/thumb/row-075-dow-uap-d7-mission-report-arabian-gulf-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d7-mission-report-arabian-gulf-2020.jpg)
 
 ### 76. DOW-UAP-D74, Mission Report, Syria, November 2023
 _DOW-UAP-D74，任务报告，叙利亚，2023 年 11 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 11/9/23 · 地点 叙利亚 · 删改 是
 
-[本地 PDF](downloads/pdf/row-076-dow-uap-d74-mission-report-syria-november-2023.pdf) · [本地缩略图](downloads/thumb/row-076-dow-uap-d74-mission-report-syria-november-2023.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d74-mission-report-syria-november-2023.jpg)
 
 ### 77. DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024
 _DOW-UAP-D75，任务报告，亚丁湾，2024 年 7 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 7/14/24 · 地点 亚丁湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-077-dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf) · [本地缩略图](downloads/thumb/row-077-dow-uap-d75-mission-report-gulf-of-aden-july-2024.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d75-mission-report-gulf-of-aden-july-2024.jpg)
 
 ### 78. DOW-UAP-D8, Mission Report, Djibouti, 2025
 _DOW-UAP-D8，任务报告，吉布提，2025_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 地中海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-078-dow-uap-d8-mission-report-djibouti-2025.pdf) · [本地缩略图](downloads/thumb/row-078-dow-uap-d8-mission-report-djibouti-2025.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d8-mission-report-djibouti-2025.jpg)
 
 ---
 
@@ -321,7 +321,7 @@ _DOW-UAP-PR19，未解的 UAP 报告，中东，2022 年 5 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D10` → DOW-UAP-D10, Mission Report, Middle East, May 2022](#35-dow-uap-d10-mission-report-middle-east-may-2022)
 
-[本地 PDF](downloads/pdf/row-035-dow-uap-d10-mission-report-middle-east-may-2022.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022.jpg) · `DVIDS 视频 ID：1006056` · [本地视频](downloads/video/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006056/DOD_111688723.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006056` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688723/DOD_111688723.mp4)
 
 ### 80. DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022
 _DOW-UAP-PR20，未解的 UAP 报告，科威特，2022 年 5 月_
@@ -330,7 +330,7 @@ _DOW-UAP-PR20，未解的 UAP 报告，科威特，2022 年 5 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D12` → DOW-UAP-D12, Mission Report, Iraq, May 2022](#36-dow-uap-d12-mission-report-iraq-may-2022)
 
-[本地 PDF](downloads/pdf/row-080-dow-uap-pr20-unresolved-uap-report-kuwait-may-2022.pdf) · [本地缩略图](downloads/thumb/row-080-dow-uap-pr20-unresolved-uap-report-kuwait-may-2022.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-pr20.jpg)
 
 ### 81. DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022
 _DOW-UAP-PR21，未解的 UAP 报告，伊拉克，2022 年 5 月_
@@ -341,7 +341,7 @@ _DOW-UAP-PR21，未解的 UAP 报告，伊拉克，2022 年 5 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D14` → DOW-UAP-D14, Mission Report, Iraq, May 2022](#37-dow-uap-d14-mission-report-iraq-may-2022)
 
-[本地 PDF](downloads/pdf/row-037-dow-uap-d14-mission-report-iraq-may-2022.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr21-unresolved-uap-report-iraq-may-2022.jpg) · `DVIDS 视频 ID：1006059` · [本地视频](downloads/video/dow-uap-d14-mission-report-iraq-may-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006059/DOD_111688762.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006059` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688762/DOD_111688762.mp4)
 
 ### 82. DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022
 _DOW-UAP-PR22，未解的 UAP 报告，叙利亚，2022 年 7 月_
@@ -352,7 +352,7 @@ _DOW-UAP-PR22，未解的 UAP 报告，叙利亚，2022 年 7 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D16` → DOW-UAP-D16, Mission Report, Syria, July 2022](#38-dow-uap-d16-mission-report-syria-july-2022)
 
-[本地 PDF](downloads/pdf/row-038-dow-uap-d16-mission-report-syria-july-2022.pdf) · [本地缩略图](downloads/thumb/row-082-dow-uap-pr22-unresolved-uap-report-syria-july-2022.jpg) · `DVIDS 视频 ID：1006060` · [本地视频](downloads/video/dow-uap-d16-mission-report-syria-july-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006060/DOD_111688775.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006060` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688775/DOD_111688775.mp4)
 
 ### 83. DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022
 _DOW-UAP-PR23，未解的 UAP 报告，伊拉克，2022 年 12 月_
@@ -363,7 +363,7 @@ _DOW-UAP-PR23，未解的 UAP 报告，伊拉克，2022 年 12 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D18` → DOW-UAP-D18, Mission Report, Iraq, December 2022](#39-dow-uap-d18-mission-report-iraq-december-2022)
 
-[本地 PDF](downloads/pdf/row-039-dow-uap-d18-mission-report-iraq-december-2022.pdf) · [本地缩略图](downloads/thumb/row-083-dow-uap-pr23-unresolved-uap-report-iraq-december-2022.jpg) · `DVIDS 视频 ID：1006062` · [本地视频](downloads/video/dow-uap-pr23-unresolved-uap-report-iraq-december-2022.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006062/DOD_111688809.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006062` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688809/DOD_111688809.mp4)
 
 ### 84. DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023
 _DOW-UAP-PR26，未解的 UAP 报告，阿联酋，2023 年 10 月_
@@ -374,7 +374,7 @@ _DOW-UAP-PR26，未解的 UAP 报告，阿联酋，2023 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D23` → DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023](#42-dow-uap-d23-mission-report-united-arab-emirates-october-2023)
 
-[本地 PDF](downloads/pdf/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006063` · [本地视频](downloads/video/dow-uap-pr26-unresolved-uap-report-united-arab-emirates-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006063/DOD_111688816.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006063` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688816/DOD_111688816.mp4)
 
 ### 85. DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023
 _DOW-UAP-PR27，未解的 UAP 报告，阿联酋，2023 年 10 月_
@@ -385,7 +385,7 @@ _DOW-UAP-PR27，未解的 UAP 报告，阿联酋，2023 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D23` → DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023](#42-dow-uap-d23-mission-report-united-arab-emirates-october-2023)
 
-[本地 PDF](downloads/pdf/row-042-dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr27-unresolved-uap-report-united-arab-emirates-october-2023.jpg) · `DVIDS 视频 ID：1006067` · [本地视频](downloads/video/row-043-dow-uap-d23-mission-report-united-arab-emirates-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006067/DOD_111688825.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006067` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688825/DOD_111688825.mp4)
 
 ### 86. DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024
 _DOW-UAP-PR28，未解的 UAP 报告，希腊，2024 年 1 月_
@@ -394,7 +394,7 @@ _DOW-UAP-PR28，未解的 UAP 报告，希腊，2024 年 1 月_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `240102-D-D0360-7887` | 时长 `1m06s` | 画幅 `16:9` | DVIDS 位置 `希腊`
 
-[本地缩略图](downloads/thumb/dow-uap-pr28-unresolved-uap-report-greece-january-2024.jpg) · `DVIDS 视频 ID：1006073` · [本地视频](downloads/video/dow-uap-pr28-unresolved-uap-report-greece-january-2024.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006073/DOD_111688954.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006073` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688954/DOD_111688954.mp4)
 
 ### 88. DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024
 _DOW-UAP-PR31，未解的 UAP 报告，叙利亚，2024 年 10 月_
@@ -405,7 +405,7 @@ _DOW-UAP-PR31，未解的 UAP 报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D32` → DOW-UAP-D32, Mission Report, Syria, October 2024](#48-dow-uap-d32-mission-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr31-unresolved-uap-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006076` · [本地视频](downloads/video/row-048-dow-uap-d32-mission-report-syria-october-2024.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006076/DOD_111688970.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006076` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688970/DOD_111688970-1920x1080-9000k.mp4)
 
 ### 89. DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024
 _DOW-UAP-PR32，未解的 UAP 报告，叙利亚，2024 年 10 月_
@@ -416,7 +416,7 @@ _DOW-UAP-PR32，未解的 UAP 报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D32` → DOW-UAP-D32, Mission Report, Syria, October 2024](#48-dow-uap-d32-mission-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr32-unresolved-uap-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006078` · [本地视频](downloads/video/dow-uap-pr32-unresolved-uap-report-syria-october-2024.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006078/DOD_111688997.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006078` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688997/DOD_111688997.mp4)
 
 ### 90. DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024
 _DOW-UAP-PR33，未解的 UAP 报告，叙利亚，2024 年 10 月_
@@ -427,7 +427,7 @@ _DOW-UAP-PR33，未解的 UAP 报告，叙利亚，2024 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D32` → DOW-UAP-D32, Mission Report, Syria, October 2024](#48-dow-uap-d32-mission-report-syria-october-2024)
 
-[本地 PDF](downloads/pdf/row-048-dow-uap-d32-mission-report-syria-october-2024.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr33-unresolved-uap-report-syria-october-2024.jpg) · `DVIDS 视频 ID：1006079` · [原始视频 1920x1080 MP4（远程，未下载）](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689005/DOD_111689005.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report%2C-syria-october-2024.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006079/DOD_111689005.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006079` · [原始视频 1920x1080 MP4（远程，未下载）](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689005/DOD_111689005.mp4)
 
 ### 91. DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023
 _DOW-UAP-PR34，未解的 UAP 报告，希腊，2023 年 10 月_
@@ -438,7 +438,7 @@ _DOW-UAP-PR34，未解的 UAP 报告，希腊，2023 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D33` → DOW-UAP-D33, Mission Report, Greece, October 2023](#51-dow-uap-d33-mission-report-greece-october-2023)
 
-[本地 PDF](downloads/pdf/row-051-dow-uap-d33-mission-report-greece-october-2023.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr34-unresolved-uap-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006080` · [本地视频](downloads/video/row-051-dow-uap-d33-mission-report-greece-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006080/DOD_111689011.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006080` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689011/DOD_111689011.mp4)
 
 ### 92. DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023
 _DOW-UAP-PR35，未解的 UAP 报告，希腊，2023 年 10 月_
@@ -449,7 +449,7 @@ _DOW-UAP-PR35，未解的 UAP 报告，希腊，2023 年 10 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D35` → DOW-UAP-D35, Mission Report, Greece, October 2023](#52-dow-uap-d35-mission-report-greece-october-2023)
 
-[本地 PDF](downloads/pdf/row-052-dow-uap-d35-mission-report-greece-october-2023.pdf) · [本地缩略图](downloads/thumb/row-092-dow-uap-pr35-unresolved-uap-report-greece-october-2023.jpg) · `DVIDS 视频 ID：1006082` · [本地视频](downloads/video/row-052-dow-uap-d35-mission-report-greece-october-2023.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006082/DOD_111689022.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006082` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689022/DOD_111689022-1920x1080-9000k.mp4)
 
 ### 93. DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020
 _DOW-UAP-PR36，未解的 UAP 报告，中东，2020 年 5 月_
@@ -460,7 +460,7 @@ _DOW-UAP-PR36，未解的 UAP 报告，中东，2020 年 5 月_
 
 **关联档案**：配对 PDF [`DoW-UAP-D38` → DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020](#53-dow-uap-d38-range-fouler-debrief-middle-east-may-2020)
 
-[本地 PDF](downloads/pdf/row-053-dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) · [本地缩略图](downloads/thumb/dow-uap-pr36-unresolved-uap-report-middle-east-may-2020.jpg) · `DVIDS 视频 ID：1006083` · [本地视频](downloads/video/dow-uap-pr36-unresolved-uap-report-middle-east-may-2020.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) · [缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006083/DOD_111689030.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006083` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689030/DOD_111689030.mp4)
 
 ### 94. DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR37，未解的 UAP 报告，中东，2020_
@@ -469,7 +469,7 @@ _DOW-UAP-PR37，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-9165` | 时长 `9s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr37-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006087` · [本地视频](downloads/video/dow-uap-pr37-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006087/DOD_111689044.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006087` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689044/DOD_111689044.mp4)
 
 ### 95. DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013
 _DOW-UAP-PR38，未解的 UAP 报告，中东，2013_
@@ -478,7 +478,7 @@ _DOW-UAP-PR38，未解的 UAP 报告，中东，2013_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `130102-D-D0360-8893` | 时长 `1m46s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr38-unresolved-uap-report-middle-east-2013.jpg) · `DVIDS 视频 ID：1006088` · [本地视频](downloads/video/dow-uap-pr38-unresolved-uap-report-middle-east-2013.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006088/DOD_111689051.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006088` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689051/DOD_111689051.mp4)
 
 ### 96. DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR39，未解的 UAP 报告，中东，2020_
@@ -487,7 +487,7 @@ _DOW-UAP-PR39，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-2155` | 时长 `5s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr39-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006089` · [本地视频](downloads/video/dow-uap-pr39-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006089/DOD_111689057.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006089` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689057/DOD_111689057.mp4)
 
 ### 97. DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR40，未解的 UAP 报告，中东，2020_
@@ -496,7 +496,7 @@ _DOW-UAP-PR40，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-7746` | 时长 `1m03s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr40-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006093` · [本地视频](downloads/video/dow-uap-pr40-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006093/DOD_111689082.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006093` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689082/DOD_111689082.mp4)
 
 ### 98. DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR41，未解的 UAP 报告，中东，2020_
@@ -505,7 +505,7 @@ _DOW-UAP-PR41，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-9704` | 时长 `1m34s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr41-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006094` · [本地视频](downloads/video/row-098-dow-uap-pr41-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006094/DOD_111689083.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006094` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689083/DOD_111689083.mp4)
 
 ### 99. DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR42，未解的 UAP 报告，中东，2020_
@@ -514,7 +514,7 @@ _DOW-UAP-PR42，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-6218` | 时长 `4m53s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr42-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006097` · [本地视频](downloads/video/row-099-dow-uap-pr42-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006097/DOD_111689090.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006097` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689090/DOD_111689090.mp4)
 
 ### 101. DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR44，未解的 UAP 报告，中东，2020_
@@ -523,7 +523,7 @@ _DOW-UAP-PR44，未解的 UAP 报告，中东，2020_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-8501` | 时长 `5m12s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr44-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006104` · [本地视频](downloads/video/row-101-dow-uap-pr44-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006104/DOD_111689115.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006104` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689115/DOD_111689115.mp4)
 
 ---
 
@@ -543,19 +543,19 @@ Each of these incident summaries includes a "Check-List - Unidentified Flying Ob
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-026-38-143685-box-incident-summaries-101-172.pdf) · [本地缩略图](downloads/thumb/row-026-38-143685-box-incident-summaries-101-172.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_101-172.jpg)
 
 ### 27. 38_143685_box_Incident_Summaries_173-233
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-027-38-143685-box-incident-summaries-173-233.pdf) · [本地缩略图](downloads/thumb/row-027-38-143685-box-incident-summaries-173-233.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_173-233.jpg)
 
 ### 28. 38_143685_box7_Incident_Summaries_1-100
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 未提供 · 地点 未提供 · 删改 未标注
 
-[本地 PDF](downloads/pdf/row-028-38-143685-box7-incident-summaries-1-100.pdf) · [本地缩略图](downloads/thumb/row-028-38-143685-box7-incident-summaries-1-100.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/38_143685_box7_incident_summaries_1-100.jpg)
 
 ---
 
@@ -576,21 +576,21 @@ _DOW-UAP-D50，电子邮件往来，印太司令部，2025 年 4 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 4/10/2025-4/11/2025 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-060-dow-uap-d50-email-correspondence-indopacom-april-2025.pdf) · [本地缩略图](downloads/thumb/row-060-dow-uap-d50-email-correspondence-indopacom-april-2025.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d50-email-correspondence-indopacom-april-2025.jpg)
 
 ### 61. DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023
 _DOW-UAP-D51，电子邮件往来，太平洋时区，2023 年 3 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 3/23/26 · 地点 美国太平洋时区 · 删改 是
 
-[本地 PDF](downloads/pdf/row-061-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf) · [本地缩略图](downloads/thumb/row-061-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.jpg)
 
 ### 62. DOW-UAP-D52, Email Correspondance, NA, August 2024
 _DOW-UAP-D52，电子邮件往来，未提供，2024 年 8 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 10/31/24 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-062-dow-uap-d52-email-correspondance-na-august-2024.pdf) · [本地缩略图](downloads/thumb/row-062-dow-uap-d52-email-correspondance-na-august-2024.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d52-email-correspondance-na-august-2024.jpg)
 
 ---
 
@@ -613,7 +613,7 @@ _DOW-UAP-PR46，未解的 UAP 报告，印太司令部，2024_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `240102-D-D0360-7891` | 时长 `9s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr46-unresolved-uap-report-indopacom-2024.jpg) · `DVIDS 视频 ID：1006106` · [本地视频](downloads/video/row-103-dow-uap-pr46-unresolved-uap-report-indopacom-2024.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006106/DOD_111689133.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006106` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689133/DOD_111689133.mp4)
 
 ### 104. DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023
 _DOW-UAP-PR47，未解的 UAP 报告，印太司令部，2023_
@@ -622,7 +622,7 @@ _DOW-UAP-PR47，未解的 UAP 报告，印太司令部，2023_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `230102-D-D0360-7088` | 时长 `1m59s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr47-unresolved-uap-report-indopacom-2023.jpg) · `DVIDS 视频 ID：1006107` · [本地视频](downloads/video/row-104-dow-uap-pr47-unresolved-uap-report-indopacom-2023.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006107/DOD_111689142.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006107` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689142/DOD_111689142-1920x1080-9000k.mp4)
 
 ### 105. DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024
 _DOW-UAP-PR48，未解的 UAP 报告，印太司令部，2024_
@@ -631,7 +631,7 @@ _DOW-UAP-PR48，未解的 UAP 报告，印太司令部，2024_
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `240102-D-D0360-9234` | 时长 `1m39s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/row-105-dow-uap-pr48-unresolved-uap-report-indopacom-2024.jpg) · `DVIDS 视频 ID：1006110` · [本地视频](downloads/video/row-105-dow-uap-pr48-unresolved-uap-report-indopacom-2024.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006110/DOD_111689167.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006110` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689167/DOD_111689167.mp4)
 
 ---
 
@@ -656,14 +656,14 @@ _DOW-UAP-D38，靶场闯入者询问记录，中东，2020 年 5 月_
 
 **关联档案**：配对视频 [`PR-36` → DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020](#93-dow-uap-pr36-unresolved-uap-report-middle-east-may-2020)
 
-[本地 PDF](downloads/pdf/row-053-dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) · [本地缩略图](downloads/thumb/row-053-dow-uap-d38-range-fouler-debrief-middle-east-may-2020.jpg) · `DVIDS 视频 ID：1006083` · [本地视频](downloads/video/dow-uap-pr36-unresolved-uap-report-middle-east-may-2020.mp4)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.jpg) · `DVIDS 视频 ID：1006083` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689030/DOD_111689030.mp4)
 
 ### 67. DOW-UAP-D58, Range Fouler Debrief, NA, October 2020
 _DOW-UAP-D58，靶场闯入者询问记录，未提供，2020 年 10 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 10/27/20 · 地点 未提供 · 删改 是
 
-[本地 PDF](downloads/pdf/row-067-dow-uap-d58-range-fouler-debrief-na-october-2020.pdf) · [本地缩略图](downloads/thumb/row-067-dow-uap-d58-range-fouler-debrief-na-october-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d58-range-fouler-debrief-na-october-2020.jpg)
 
 ---
 
@@ -684,14 +684,14 @@ _DOW-UAP-D42，靶场闯入者询问记录，日本，2023_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 8/31/20 · 地点 阿拉伯湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-055-dow-uap-d42-range-fouler-debrief-japan-2023.pdf) · [本地缩略图](downloads/thumb/row-055-dow-uap-d42-range-fouler-debrief-japan-2023.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d42-range-fouler-debrief-japan-2023.jpg)
 
 ### 65. DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020
 _DOW-UAP-D56，靶场闯入者询问记录，阿拉伯海，2020 年 8 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 8/24/20 · 地点 阿拉伯海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-065-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf) · [本地缩略图](downloads/thumb/row-065-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.jpg)
 
 ---
 
@@ -712,14 +712,14 @@ _DOW-UAP-D44，靶场闯入者报告表，亚丁湾，2020 年 10 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 10/15/20 · 地点 阿拉伯海 · 删改 是
 
-[本地 PDF](downloads/pdf/row-056-dow-uap-d44-range-fouler-reporting-form-gulf-of-aden-october-2020.pdf) · [本地缩略图](downloads/thumb/row-056-dow-uap-d44-range-fouler-reporting-form-gulf-of-aden-october-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d44-range-fouler-arabian-sea-october-2020.jpg)
 
 ### 66. DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020
 _DOW-UAP-D57，靶场闯入者报告表，亚丁湾，2020 年 9 月_
 
 📄 PDF · 机构 美国国防部（DOW） · 发布 5/8/26 · 事件 9/4/20 · 地点 亚丁湾 · 删改 是
 
-[本地 PDF](downloads/pdf/row-066-dow-uap-d57-range-fouler-reporting-form-gulf-of-aden-september-2020.pdf) · [本地缩略图](downloads/thumb/row-066-dow-uap-d57-range-fouler-reporting-form-gulf-of-aden-september-2020.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d57-mission-report-gulf-of-aden-september-2020.jpg)
 
 ---
 
@@ -739,7 +739,7 @@ This file contains memorandums and correspondence related to flying disc/saucer 
 
 </details>
 
-[本地 PDF](downloads/pdf/row-017-18-100754-general-1946-7-vol-2.pdf) · [本地缩略图](downloads/thumb/row-017-18-100754-general-1946-7-vol-2.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/18_100754_%20general%201946-7_vol_2.jpg)
 
 ### 18. 18_6369445_General_1948_Vol_1
 
@@ -753,7 +753,7 @@ This file contains memorandums, correspondence, and forms related to the reporti
 
 </details>
 
-[本地 PDF](downloads/pdf/row-018-18-6369445-general-1948-vol-1.pdf) · [本地缩略图](downloads/thumb/row-018-18-6369445-general-1948-vol-1.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/18_6369445_general_1948_vol_1.jpg)
 
 ### 22. 331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents
 
@@ -767,7 +767,7 @@ This file contains SHAEF messages and memorandums related to "night phenomena (f
 
 </details>
 
-[本地 PDF](downloads/pdf/row-022-331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents.pdf) · [本地缩略图](downloads/thumb/row-022-331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/331_120752_numeric_files_1944%E2%80%931945_37153_german_armament_equipment_documents.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/331_120752_numeric_files_1944%E2%80%931945_37153_german_armament_equipment_documents.jpg)
 
 ### 23. 341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399
 
@@ -781,7 +781,7 @@ An Air Force intelligence report from November 1948 relating to unidentified fly
 
 </details>
 
-[本地 PDF](downloads/pdf/row-023-341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399.pdf) · [本地缩略图](downloads/thumb/row-023-341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.jpg)
 
 ### 24. 341_110677_Numerical_File,_5-2500
 _341_110677_Numerical_File，_5-2500_
@@ -796,7 +796,7 @@ Air Intelligence Information Report, 14 October 1955, Report of eye witness acco
 
 </details>
 
-[本地 PDF](downloads/pdf/row-024-341-110677-numerical-file-5-2500.pdf) · [本地缩略图](downloads/thumb/row-024-341-110677-numerical-file-5-2500.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/341_110677_numerical_file_5-2500.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/341_110677_numerical_file_5-2500.jpg)
 
 ### 25. 342_HS1-416511228_319.1 Flying Discs 1949
 
@@ -810,7 +810,7 @@ This file primarily contains incident reports on Unidentified Flying Objects (UF
 
 </details>
 
-[本地 PDF](downloads/pdf/row-025-342-hs1-416511228-319-1-flying-discs-1949.pdf) · [本地缩略图](downloads/thumb/row-025-342-hs1-416511228-319-1-flying-discs-1949.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/342_hs1-416511228_box186_319.1-flying-discs-1949.jpg)
 
 ### 57. DOW-UAP-D48, Department of the Air Force Report, 1996
 _DOW-UAP-D48，空军部报告，1996_
@@ -825,7 +825,7 @@ This report describes the Modeling of Unlikely Space-Booster Failures in Risk Ca
 
 </details>
 
-[本地 PDF](downloads/pdf/row-057-dow-uap-d48-department-of-the-air-force-report-1996.pdf) · [本地缩略图](downloads/thumb/row-057-dow-uap-d48-department-of-the-air-force-report-1996.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d48-report-september-1996.jpg)
 
 ### 58. DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000
 _DOW-UAP-D49，发射纪要，范登堡空军基地，2000_
@@ -840,7 +840,7 @@ This report summarizes the historical record of launches occurring at Vandenberg
 
 </details>
 
-[本地 PDF](downloads/pdf/row-058-dow-uap-d49-launch-summary-vandenberg-afb-2000.pdf) · [本地缩略图](downloads/thumb/row-058-dow-uap-d49-launch-summary-vandenberg-afb-2000.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d49-launch-summary-february-2000.jpg)
 
 ### 64. DOW-UAP-D55, Mission Report, Syria, November 2016
 _DOW-UAP-D55，任务报告，叙利亚，2016 年 11 月_
@@ -855,7 +855,7 @@ This document is a mission briefing summarizing an observation of Unidentified A
 
 </details>
 
-[本地 PDF](downloads/pdf/row-064-dow-uap-d55-mission-report-syria-november-2016.pdf) · [本地缩略图](downloads/thumb/row-064-dow-uap-d55-mission-report-syria-november-2016.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/dow-uap-d55-mission-report-syria-november-2016.jpg)
 
 ### 87. DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024
 _DOW-UAP-PR29，未解的 UAP 报告，阿联酋，2024 年 6 月_
@@ -872,7 +872,7 @@ The United States Northern Command submitted a report of an unidentified anomalo
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `240602-D-D0360-1039` | 时长 `21s` | 画幅 `16:9` | DVIDS 位置 `阿联酋`
 
-[本地缩略图](downloads/thumb/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024.jpg) · `DVIDS 视频 ID：1006074` · [本地视频](downloads/video/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006074/DOD_111688964.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006074` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111688964/DOD_111688964.mp4)
 
 ### 100. DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025
 _DOW-UAP-PR43，未解的 UAP 报告，非洲，2025_
@@ -889,7 +889,7 @@ The United States Africa Command submitted a report of an unidentified anomalous
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `250101-D-D0360-6307` | 时长 `11s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr43-unresolved-uap-report-africa-2025.jpg) · `DVIDS 视频 ID：1006159` · [本地视频](downloads/video/dow-uap-pr43-unresolved-uap-report-africa-2025.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006159/DOD_111689759.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006159` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689759/DOD_111689759.mp4)
 
 ### 102. DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020
 _DOW-UAP-PR45，未解的 UAP 报告，中东，2020_
@@ -906,7 +906,7 @@ The Department of the Air Force submitted a report of an unidentified anomalous 
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `200102-D-D0360-7322` | 时长 `58s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr45-unresolved-uap-report-middle-east-2020.jpg) · `DVIDS 视频 ID：1006105` · [本地视频](downloads/video/row-102-dow-uap-pr45-unresolved-uap-report-middle-east-2020.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006105/DOD_111689123.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006105` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689123/DOD_111689123.mp4)
 
 ### 106. DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026
 _DOW-UAP-PR49，未解的 UAP 报告，陆军部，2026_
@@ -923,7 +923,7 @@ The Department of the Army submitted a report of an unidentified anomalous pheno
 
 **档案信息**：类别 `配画素材（B-Roll）` | 主管单位 `全域异常现象解决办公室（AARO）` | 军种 `民用` | 档案编号（VIRIN） `260102-D-D0360-9604` | 时长 `1m49s` | 画幅 `16:9` | DVIDS 位置 `未公开地点`
 
-[本地缩略图](downloads/thumb/dow-uap-pr49-unresolved-uap-report-department-of-the-army-2026.jpg) · `DVIDS 视频 ID：1006111` · [本地视频](downloads/video/row-106-dow-uap-pr49-unresolved-uap-report-department-of-the-army-2026.mp4)
+[缩略图](https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1006111/DOD_111689168.0000001/720w_q95.jpg) · `DVIDS 视频 ID：1006111` · [视频](https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689168/DOD_111689168-1920x1080-9000k.mp4)
 
 ### 161. Western US Event
 
@@ -939,4 +939,4 @@ This document is a summary of statements by seven US PERSONs employed by the fed
 
 **关联档案**：配对 PDF `Western US Event Slides 5.08.2026`
 
-[本地 PDF](downloads/pdf/row-161-western-us-event.pdf) · [本地缩略图](downloads/thumb/row-161-western-us-event.jpg)
+[PDF](https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf) · [缩略图](https://www.war.gov/medialink/ufo/release_1/thumbnail/western_us_event_slides_5.08.2026.jpg)
