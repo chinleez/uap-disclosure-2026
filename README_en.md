@@ -40,9 +40,6 @@ After the download completes, every local link in the markdown files (e.g. `down
 | Videos | 28 |
 | Images | 14 |
 | DVIDS video IDs | 41 |
-| Redacted = Yes | 108 |
-| Total asset size | ~6.7 GB (PDF 2.3 GB · video 4.4 GB · image+thumb 45 MB) |
-| Failed downloads | 3 (remote URL kept as fallback) |
 
 ## Browse by agency
 
