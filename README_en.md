@@ -7,29 +7,11 @@
 [🌐 中文](README.md)
 
 > Curated index of the UAP (formerly UFO) materials released by the U.S. government on **May 8, 2026**: **161 records** from the **Department of War, FBI, NASA, and Department of State**. The repository provides:
-> - Bilingual indexes (by agency, by location)
+> - Bilingual indexes (by agency, by geographic region)
 > - Chinese translations of titles, summaries, locations, and metadata labels
 > - Restructured markdown (shared case-file summaries hoisted to section heads, English originals collapsed)
-> - A one-shot reproduction script driven by `download_manifest.json`
 >
-> All resource links point directly at the original public URLs (war.gov / cloudfront) — click and view in the browser, no clone needed. For an offline archive, `scripts/download_resources.py` mirrors the full 6.7 GB tree.
-
-## Quick start
-
-```bash
-git clone https://github.com/chinleez/uap-disclosure-2026.git
-cd uap-disclosure-2026
-
-# Mirror the full 6.7 GB asset tree (idempotent, skips existing files)
-python3 scripts/download_resources.py
-
-# Or pull selectively
-python3 scripts/download_resources.py --kinds thumb,image       # ~45 MB
-python3 scripts/download_resources.py --kinds pdf --workers 16  # PDFs only
-python3 scripts/download_resources.py --dry-run                 # plan, do not fetch
-```
-
-The script mirrors every asset into `downloads/` per `download_manifest.json`. If you only want to read the index, **no clone is required** — open any `.md` on GitHub and every resource link already points at its original public URL.
+> Every resource link points directly at the original public URL — open any `.md` on GitHub and click through, **no clone required**.
 
 ## Headline numbers
 
@@ -52,7 +34,30 @@ The script mirrors every asset into `downloads/` per `download_manifest.json`. I
 
 ## Cross-cutting indexes
 
-- [🗺️ Browse by incident location](by-location_en.md) — 37 regions, from "Western United States" to "Papua New Guinea"
+- [🗺️ Browse by incident location](by-location_en.md) — 6 geographic regions (Americas · Middle East · Europe & Central Asia · Asia-Pacific · Space & Orbit · Unspecified)
+
+## Reading notes
+
+- **Shared summaries hoisted**: records that share a case-file summary appear once at the section header, not per record (e.g. 18 FBI 62-HQ-83894 sections, 32 DOW MISREP reports, 5 Apollo 12 lunar photos).
+- **English originals**: collapsed inside `<details>` blocks in the Chinese files; rendered as body text in the English files.
+- **Resource links** point at the original public URLs.
+- **Compact metadata**: a single line per record — `Type · Released · Incident · Location · Redacted`.
+
+## Offline archive (optional)
+
+To mirror the full 6.7 GB asset tree locally:
+
+```bash
+git clone https://github.com/chinleez/uap-disclosure-2026.git
+cd uap-disclosure-2026
+
+python3 scripts/download_resources.py                       # full mirror
+python3 scripts/download_resources.py --kinds thumb,image   # ~45 MB only
+python3 scripts/download_resources.py --kinds pdf --workers 16
+python3 scripts/download_resources.py --dry-run             # plan only
+```
+
+The script mirrors every asset into `downloads/` per `download_manifest.json` — idempotent, skips existing files.
 
 ## Repository layout
 
@@ -60,23 +65,12 @@ The script mirrors every asset into `downloads/` per `download_manifest.json`. I
 .
 ├── README.md / README_en.md         # entry points
 ├── by-{dow,fbi,nasa,state}.md / _en.md
-├── by-location.md / _en.md          # cross-cutting index by location
+├── by-location.md / _en.md          # cross-cutting index by region
 ├── uap_index.json                   # structured index (161 records)
 ├── translations_zh.json             # English → Chinese translation table
-├── scripts/
-│   └── download_resources.py        # asset mirroring script
-├── downloads/                       # local assets (.gitignored, populated by the script)
-│   ├── download_manifest.json
-│   ├── pdf/  video/  image/  thumb/
+├── scripts/download_resources.py    # asset mirroring script
 └── LICENSE                          # CC BY 4.0
 ```
-
-## Reading notes
-
-- **Shared summaries hoisted**: records that share a case-file summary appear once at the section header, not per record (e.g. 18 FBI 62-HQ-83894 sections, 32 DOW MISREP reports, 5 Apollo 12 lunar photos).
-- **English originals**: collapsed inside `<details>` blocks in the Chinese files; rendered as body text in the English files.
-- **Resource links** point at the original public URLs and open directly in the browser; the download script is only needed for offline archives.
-- **Compact metadata**: a single line per record — `Type · Agency · Released · Incident · Location · Redacted`.
 
 ## License
 
